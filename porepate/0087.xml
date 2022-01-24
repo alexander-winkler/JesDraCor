@@ -1,0 +1,18 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>OCR4all</Creator>
+    <Created>2022-01-21T16:17:16</Created>
+    <LastChange>2022-01-21T16:17:16</LastChange>
+  </Metadata>
+  <Page imageFilename="0087.png" imageHeight="1743" imageWidth="1000">
+    <TextRegion id="r0" type="paragraph" orientation="-0.625">
+      <Coords points="1,1 998,1 998,1741 1,1741"/>
+      <TextLine id="r0_l001">
+        <Coords points="1,1 998,1 998,1741 1,1741"/>
+        <TextEquiv index="1" conf="0.0">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
