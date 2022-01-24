@@ -12,57 +12,76 @@ However, the research potential of a Corpus of Jesuit Drama goes much further. I
 
 JesDraCor makes digitally available 
 
-1. texts which have not yet been digitized (through OCR using the [OCR4all](https://github.com/OCR4all) pipeline),
-2. texts that are already available online in a machine-readible form (especially in the [Camena Corpus](http://mateo.uni-mannheim.de/camenahtdocs/camena_e.html)), some of them may still need to be TEI-encoded,
+1. texts which have not yet been digitized (OCRed via the [OCR4all](https://github.com/OCR4all) pipeline),
+2. texts that are already available online in a machine-readible form and under an appropriate licence (especially in the CC-BY-licenced [Camena Corpus](http://mateo.uni-mannheim.de/camenahtdocs/camena_e.html)), some of them may still need to be TEI-encoded,
 3. texts published in modern digital editions and made available in a digital format (e.g. pdf). Only the Latin text is extracted from the editions. To the best of our knowledge and belief, the texts themselves are in the public domain (as all authors died more than 70 years ago), only editorial interventions (in the apparatus) are protected by copyright.
+4. Furthermore, we would like to encourage authors of scholarly editions of Neo-Latin Jesuit drama to share their transcriptions of the texts with us under a [CC-BY-licence](https://creativecommons.org/licenses/by/4.0/deed.en). Your contribution will be made transparent, your work will be more visible, reach a different (and maybe wider) audience and benefit the research.
+
+We intend to make available documentation and/or tutorials on how to produce, use, work on, and reuse digital editions of Neo-Latin Jesuit drama in the hopes to enrich the JesDraCor collection with the collaboration of the research community. The research community, in turn, will benefit from an ample open corpus.
 
 ## Texts planned to be made available
 
 | Author | Title | Source | Folder | Status |
 | --- | --- | --- | --- | --- | 
-| Jeremias Drexel | Iulianus Apostata Tragoedia | [ed. Abele 2018](https://doi.org/10.1515/9783110593730) | drexiul | pdf/txt | 
-| Francesco Benci | Ergastus | [VD16 B 1675](http://gateway-bayern.de/VD16+B+1675) | bencerga | [scan](shttp://resolver.staatsbibliothek-berlin.de/SBB0002080D00000000) / PageXML |
-| Francesco Benci | Philotimus | [VD16 B 1675](http://gateway-bayern.de/VD16+B+1675) | | [scan](http://resolver.staatsbibliothek-berlin.de/SBB0002080D00000000) / PageXML |
-| Nicolaus von Avancini | Sosa naufragus | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_1.xml) | | TEI-XML |
-| Nicolaus von Avancini | Pomum Theodosii  | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_2.xml) | | TEI-XML |
-| Nicolaus von Avancini | Theodosius Magnus  | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_3.xml) | | TEI-XML |
-| Nicolaus von Avancini | C. Marius  | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_4.xml) | | TEI-XML |
-| Nicolaus von Avancini | Clodoaldus Daniae Princeps  | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_5.xml) | | TEI-XML |
-| Nicolaus von Avancini | Joseph a fratribus recognitus | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_6.xml) | | TEI-XML |
-| Nicolaus von Avancini | Zelus, sive Franciscus Xaverius Indiarum apostolus  | [Camena](http://mateo.uni-mannheim.de/camena/avan3/books/avancinidramatica2_1.xml) | | TEI-XML |
-| Nicolaus von Avancini | Pietas victrix, sive Fl. Constantinus Magnus ... victor  | [Camena](http://mateo.uni-mannheim.de/camena/avan3/books/avancinidramatica2_2.xml) | | TEI-XML |
-| Nicolaus von Avancini | Fides coniugalis, sive Ansberta, sui coniugis Bertulphi ... liberatrix  | [Camena](http://mateo.uni-mannheim.de/camena/avan3/books/avancinidramatica2_3.xml) | | TEI-XML |
-| Nicolaus von Avancini | Fiducia in Deum, sive Bethulia liberata  | [Camena](http://mateo.uni-mannheim.de/camena/avan3/books/avancinidramatica2_4.xml) | | TEI-XML |
-| Nicolaus von Avancini | Dei bonitas de humana pertinacia victrix, sive Alphonsus Decimus ... Rex ... a Deo emendatus  | [Camena](http://mateo.uni-mannheim.de/camena/avan3/books/avancinidramatica2_5.xml) | | TEI-XML |
-| Nicolaus von Avancini | Connubium Meriti et Honoris, sive Evergetes, et Endoxa  | [Camena](http://mateo.uni-mannheim.de/camena/avan3/books/avancinidramatica2_6.xml) | | TEI-XML |
-| Nicolaus von Avancini | Tyrannis Idokerdi  | [Camena](http://mateo.uni-mannheim.de/camena/avan4/books/avancinidramatica3_1.xml) | | TEI-XML |
-| Nicolaus von Avancini | Hermenegildus  | [Camena](http://mateo.uni-mannheim.de/camena/avan4/books/avancinidramatica3_2.xml) | | TEI-XML |
-| Nicolaus von Avancini | Olaus Magnus  | [Camena](http://mateo.uni-mannheim.de/camena/avan4/books/avancinidramatica3_3.xml) | | TEI-XML |
-| Nicolaus von Avancini | David  | [Camena](http://mateo.uni-mannheim.de/camena/avan4/books/avancinidramatica3_4.xml) | | TEI-XML |
-| Nicolaus von Avancini | Sidrach, Misach et Abdenago  | [Camena](http://mateo.uni-mannheim.de/camena/avan4/books/avancinidramatica3_5.xml) | | TEI-XML |
-| Nicolaus von Avancini | Artaxerxes  | [Camena](http://mateo.uni-mannheim.de/camena/avan5/books/avancinidramatica4_1.xml) | | TEI-XML |
-| Nicolaus von Avancini | Cyrus  | [Camena](http://mateo.uni-mannheim.de/camena/avan5/books/avancinidramatica4_2.xml) | | TEI-XML |
-| Nicolaus von Avancini | Canutus  | [Camena](http://mateo.uni-mannheim.de/camena/avan5/books/avancinidramatica4_3.xml) | | TEI-XML |
-| Nicolaus von Avancini | S. Idda  | [Camena](http://mateo.uni-mannheim.de/camena/avan5/books/avancinidramatica4_4.xml) | | TEI-XML |
-| Nicolaus von Avancini | Semiramis  | [Camena](http://mateo.uni-mannheim.de/camena/avan5/books/avancinidramatica4_5.xml) | | TEI-XML |
-| Nicolaus von Avancini | Alexius Comnenus  | [Camena](http://mateo.uni-mannheim.de/camena/avan5/books/avancinidramatica4_6.xml) | | TEI-XML |
-| Jakob Balde | Jephtias | [Camena](http://mateo.uni-mannheim.de/camena/bald4/books/baldepoemata4_7.xml) | | TEI-XML |
-| Jakob Bidermann | Belisarius | [Camena](http://mateo.uni-mannheim.de/camena/bider3/books/bidermannludi_1.xml) | | | TEI-XML |
-| Jakob Bidermann | Cenodoxus | [Camena](http://mateo.uni-mannheim.de/camena/bider3/books/bidermannludi_2.xml) | | TEI-XML |
-| Jakob Bidermann | Cosmarchia | [Camena](http://mateo.uni-mannheim.de/camena/bider3/books/bidermannludi_3.xml) | | TEI-XML |
-| Jakob Bidermann | Josephus | [Camena](http://mateo.uni-mannheim.de/camena/bider3/books/bidermannludi_4.xml) | | TEI-XML |
-| Jakob Bidermann | Macarius Romanus | [Camena](http://mateo.uni-mannheim.de/camena/bider3/books/bidermannludi_5.xml) | | TEI-XML |
-| Jakob Bidermann | Philemon Martyr | [Camena](http://mateo.uni-mannheim.de/camena/bider4/books/bidermannludi2_1.xml) | | TEI-XML |
-| Jakob Bidermann | Jacobus Usurarius | [Camena](http://mateo.uni-mannheim.de/camena/bider4/books/bidermannludi2_2.xml) | | TEI-XML |
-| Jakob Bidermann | Joannes Calybita | [Camena](http://mateo.uni-mannheim.de/camena/bider4/books/bidermannludi2_3.xml) | | TEI-XML |
-| Jakob Bidermann | Josaphatus Rex | [Camena](http://mateo.uni-mannheim.de/camena/bider4/books/bidermannludi2_4.xml) | | TEI-XML |
-| Jakob Bidermann | Stertinius | [Camena](http://mateo.uni-mannheim.de/camena/bider4/books/bidermannludi2_5.xml) | | TEI-XML |
-| Jakob Masen | Comoedia historica Ollaria, Comoedia historica Rusticus imperans, Comoedia fabulosa Bacchi Schola eversa, Tragoedia Mauritius Orientis Imperator, Tragico-Comoedia historica Iosaphatus, Tragico-Comoedia parabolica, Androphilus, Comico-Tragoedia parabolica Telesbius  |  [Camena](http://mateo.uni-mannheim.de/camena/masen1/Masen_palaestra_eloquentiae_3.xml) | | TEI-XML |
-| Jakob Pontanus | Immolatio Isaac | [Camena](http://mateo.uni-mannheim.de/camena/pont2/books/pontanusinstitutiones_9.xml) | | TEI-XML |
-| Jakob Pontanus | Stratocles, sive Bellum | [Camena](http://mateo.uni-mannheim.de/camena/pont2/books/pontanusinstitutiones_10.xml) | | TEI-XML |
-| Jakob Gretser | Udo | [ed. Rädle 1979](https://doi.org/10.1515/9783110831535) | | pdf/txt |
+| [Jeremias Drexel](https://www.wikidata.org/wiki/Q67095) | Iulianus Apostata Tragoedia | [ed. Abele 2018](https://doi.org/10.1515/9783110593730) | drexiul | pdf/txt | 
+| [Francesco Benci](https://www.wikidata.org/wiki/Q30014571) | Ergastus | [VD16 B 1675](http://gateway-bayern.de/VD16+B+1675) | bencerga | [scan](shttp://resolver.staatsbibliothek-berlin.de/SBB0002080D00000000) / PageXML |
+| [Francesco Benci](https://www.wikidata.org/wiki/Q30014571) | Philotimus | [VD16 B 1675](http://gateway-bayern.de/VD16+B+1675) | | [scan](http://resolver.staatsbibliothek-berlin.de/SBB0002080D00000000) / PageXML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Sosa naufragus | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_1.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Pomum Theodosii  | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_2.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Theodosius Magnus  | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_3.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | C. Marius  | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_4.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Clodoaldus Daniae Princeps  | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_5.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Joseph a fratribus recognitus | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_6.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Zelus, sive Franciscus Xaverius Indiarum apostolus  | [Camena](http://mateo.uni-mannheim.de/camena/avan3/books/avancinidramatica2_1.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Pietas victrix, sive Fl. Constantinus Magnus ... victor  | [Camena](http://mateo.uni-mannheim.de/camena/avan3/books/avancinidramatica2_2.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Fides coniugalis, sive Ansberta, sui coniugis Bertulphi ... liberatrix  | [Camena](http://mateo.uni-mannheim.de/camena/avan3/books/avancinidramatica2_3.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Fiducia in Deum, sive Bethulia liberata  | [Camena](http://mateo.uni-mannheim.de/camena/avan3/books/avancinidramatica2_4.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Dei bonitas de humana pertinacia victrix, sive Alphonsus Decimus ... Rex ... a Deo emendatus  | [Camena](http://mateo.uni-mannheim.de/camena/avan3/books/avancinidramatica2_5.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Connubium Meriti et Honoris, sive Evergetes, et Endoxa  | [Camena](http://mateo.uni-mannheim.de/camena/avan3/books/avancinidramatica2_6.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Tyrannis Idokerdi  | [Camena](http://mateo.uni-mannheim.de/camena/avan4/books/avancinidramatica3_1.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Hermenegildus  | [Camena](http://mateo.uni-mannheim.de/camena/avan4/books/avancinidramatica3_2.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Olaus Magnus  | [Camena](http://mateo.uni-mannheim.de/camena/avan4/books/avancinidramatica3_3.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | David  | [Camena](http://mateo.uni-mannheim.de/camena/avan4/books/avancinidramatica3_4.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Sidrach, Misach et Abdenago  | [Camena](http://mateo.uni-mannheim.de/camena/avan4/books/avancinidramatica3_5.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Artaxerxes  | [Camena](http://mateo.uni-mannheim.de/camena/avan5/books/avancinidramatica4_1.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Cyrus  | [Camena](http://mateo.uni-mannheim.de/camena/avan5/books/avancinidramatica4_2.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Canutus  | [Camena](http://mateo.uni-mannheim.de/camena/avan5/books/avancinidramatica4_3.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | S. Idda  | [Camena](http://mateo.uni-mannheim.de/camena/avan5/books/avancinidramatica4_4.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Semiramis  | [Camena](http://mateo.uni-mannheim.de/camena/avan5/books/avancinidramatica4_5.xml) | | TEI-XML |
+| [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Alexius Comnenus  | [Camena](http://mateo.uni-mannheim.de/camena/avan5/books/avancinidramatica4_6.xml) | | TEI-XML |
+| [Jakob Balde](https://www.wikidata.org/wiki/Q65850) | Jephtias | [Camena](http://mateo.uni-mannheim.de/camena/bald4/books/baldepoemata4_7.xml) | | TEI-XML |
+| [Jakob Bidermann](https://www.wikidata.org/wiki/Q71316) | Belisarius | [Camena](http://mateo.uni-mannheim.de/camena/bider3/books/bidermannludi_1.xml) | | TEI-XML |
+| [Jakob Bidermann](https://www.wikidata.org/wiki/Q71316) | Cenodoxus | [Camena](http://mateo.uni-mannheim.de/camena/bider3/books/bidermannludi_2.xml) | | TEI-XML |
+| [Jakob Bidermann](https://www.wikidata.org/wiki/Q71316) | Cosmarchia | [Camena](http://mateo.uni-mannheim.de/camena/bider3/books/bidermannludi_3.xml) | | TEI-XML |
+| [Jakob Bidermann](https://www.wikidata.org/wiki/Q71316) | Josephus | [Camena](http://mateo.uni-mannheim.de/camena/bider3/books/bidermannludi_4.xml) | | TEI-XML |
+| [Jakob Bidermann](https://www.wikidata.org/wiki/Q71316) | Macarius Romanus | [Camena](http://mateo.uni-mannheim.de/camena/bider3/books/bidermannludi_5.xml) | | TEI-XML |
+| [Jakob Bidermann](https://www.wikidata.org/wiki/Q71316) | Philemon Martyr | [Camena](http://mateo.uni-mannheim.de/camena/bider4/books/bidermannludi2_1.xml) | | TEI-XML |
+| [Jakob Bidermann](https://www.wikidata.org/wiki/Q71316) | Jacobus Usurarius | [Camena](http://mateo.uni-mannheim.de/camena/bider4/books/bidermannludi2_2.xml) | | TEI-XML |
+| [Jakob Bidermann](https://www.wikidata.org/wiki/Q71316) | Joannes Calybita | [Camena](http://mateo.uni-mannheim.de/camena/bider4/books/bidermannludi2_3.xml) | | TEI-XML |
+| [Jakob Bidermann](https://www.wikidata.org/wiki/Q71316) | Josaphatus Rex | [Camena](http://mateo.uni-mannheim.de/camena/bider4/books/bidermannludi2_4.xml) | | TEI-XML |
+| [[Jakob Bidermann](https://www.wikidata.org/wiki/Q71316)](https://www.wikidata.org/wiki/Q71316) | Stertinius | [Camena](http://mateo.uni-mannheim.de/camena/bider4/books/bidermannludi2_5.xml) | | TEI-XML |
+| [Jakob Masen](https://www.wikidata.org/wiki/Q97336) | Comoedia historica Ollaria, Comoedia historica Rusticus imperans, Comoedia fabulosa Bacchi Schola eversa, Tragoedia Mauritius Orientis Imperator, Tragico-Comoedia historica Iosaphatus, Tragico-Comoedia parabolica, Androphilus, Comico-Tragoedia parabolica Telesbius  |  [Camena](http://mateo.uni-mannheim.de/camena/masen1/Masen_palaestra_eloquentiae_3.xml) | | TEI-XML |
+| [Jakob Pontanus](https://www.wikidata.org/wiki/Q3157628) | Immolatio Isaac | [Camena](http://mateo.uni-mannheim.de/camena/pont2/books/pontanusinstitutiones_9.xml) | | TEI-XML |
+| [Jakob Pontanus](https://www.wikidata.org/wiki/Q3157628) | Stratocles, sive Bellum | [Camena](http://mateo.uni-mannheim.de/camena/pont2/books/pontanusinstitutiones_10.xml) | | TEI-XML |
+| [Jakob Gretser](https://www.wikidata.org/wiki/Q97263) | Udo | [ed. Rädle 1979](https://doi.org/10.1515/9783110831535) | | pdf/txt |
 | Anonymus | Theophilus | [ed. Rädle 1979](https://doi.org/10.1515/9783110831535) | gretudon | pdf/txt |
-| Stefano Tucci | Christus nascences | | | |
+| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Nascens | ed. Saulini 2011 (?) | | |
+| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Patiens | ed. Saulini 2011 (?) | | |
+| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Iudex | ed. Saulini 2011 (?) | | |
+| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Iudex | ed. Saulini 2017 (?) | | |
+| [Giuseppe Enrico Carpani](https://www.wikidata.org/wiki/Q27188260#sitelinks-wikipedia) | Ionathas | ed. Sanzotta / [ed. 1746](https://www.digitale-sammlungen.de/en/view/bsb00069323)| | |
+| [Bernardino Stefonio](https://www.wikidata.org/wiki/Q59527928) | Flavia | ed. Saulini / [Tragoediae Selectae I (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11103749-3)| | |
+| [Bernardino Stefonio](https://www.wikidata.org/wiki/Q59527928) | Crispus | [Tragoediae Selectae I (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11103749-3) | | |
+| [Alessandro Donati](https://www.wikidata.org/wiki/Q20203291#sitelinks-wikipedia) | Suevia | [Tragoediae Selectae I (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11103749-3) | pdf |
+| [Charles Malapert](https://www.wikidata.org/wiki/Q744091) | Sedecias | [Tragoediae Selectae I (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11103749-3) | | pdf |
+| [Denis Petau](https://www.wikidata.org/wiki/Q1187608) | Sisaras | [Tragoediae Selectae I (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11103749-3) | | pdf |
+| [Denis Petau](https://www.wikidata.org/wiki/Q1187608) | Carthaginienses | [Tragoediae Selectae II (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11341548-2) | | pdf |
+| [Denis Petau](https://www.wikidata.org/wiki/Q1187608) | Usthazanes sive Martyres Persici | [Tragoediae Selectae II (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11341548-2) | | pdf |
+| [Iacobus Libenus](https://d-nb.info/gnd/136222064) | Ioseph | [Tragoediae Selectae II (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11341548-2) | | pdf |
+| [Ludovicus Cellotius](https://www.wikidata.org/wiki/Q6686878#sitelinks-wikipedia) | S. Adrianus Martyr | [Tragoediae Selectae II (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11341548-2) | | pdf |
+| [Ludovicus Cellotius](https://www.wikidata.org/wiki/Q6686878#sitelinks-wikipedia) | Sapor Admonitus | [Tragoediae Selectae II (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11341548-2) | | pdf |
+| [Ludovicus Cellotius](https://www.wikidata.org/wiki/Q6686878#sitelinks-wikipedia) | Chosroes | [Tragoediae Selectae II (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11341548-2) | | pdf |
 
+## Contact
 
-
+If you have questions or suggestions, or if you want to contribute, please get in touch with Alexander Winkler ([📧 alexander_winkler@posteo.de](mailto:alexander_winkler@posteo.de), <a href="https://orcid.org/0000-0002-9145-7238"> <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16"/> https://orcid.org/0000-0002-9145-7238</a>) 
