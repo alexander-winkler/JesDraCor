@@ -23,7 +23,7 @@ We intend to make available documentation and/or tutorials on how to produce, us
 
 | Author | Title | Source | Folder | Status |
 | --- | --- | --- | --- | --- | 
-| [Jeremias Drexel](https://www.wikidata.org/wiki/Q67095) | Iulianus Apostata Tragoedia | [ed. Abele 2018](https://doi.org/10.1515/9783110593730) | [drexiul](drexiuli) | pdf/txt | 
+| [Jeremias Drexel](https://www.wikidata.org/wiki/Q67095) | Iulianus Apostata Tragoedia | [ed. Abele 2018](https://doi.org/10.1515/9783110593730) | [drexiul](drexiuli) | txt | 
 | [Francesco Benci](https://www.wikidata.org/wiki/Q30014571) | Ergastus | [VD16 B 1675](http://gateway-bayern.de/VD16+B+1675) | [bencerga](bencerga) | [scan](shttp://resolver.staatsbibliothek-berlin.de/SBB0002080D00000000) / PageXML | [bencphil](bencphil)
 | [Francesco Benci](https://www.wikidata.org/wiki/Q30014571) | Philotimus | [VD16 B 1675](http://gateway-bayern.de/VD16+B+1675) | [bencphil](bencphil) | [scan](http://resolver.staatsbibliothek-berlin.de/SBB0002080D00000000) / PageXML |
 | [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Sosa naufragus | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_1.xml) | | TEI-XML |
@@ -69,18 +69,14 @@ We intend to make available documentation and/or tutorials on how to produce, us
 [Jakob Masen](https://www.wikidata.org/wiki/Q97336) | Comico-Tragoedia parabolica Telesbius |  [Camena](http://mateo.uni-mannheim.de/camena/masen1/Masen_palaestra_eloquentiae_3.xml) | | TEI-XML |
 | [Jakob Pontanus](https://www.wikidata.org/wiki/Q3157628) | Immolatio Isaac | [Camena](http://mateo.uni-mannheim.de/camena/pont2/books/pontanusinstitutiones_9.xml) | | TEI-XML |
 | [Jakob Pontanus](https://www.wikidata.org/wiki/Q3157628) | Stratocles, sive Bellum | [Camena](http://mateo.uni-mannheim.de/camena/pont2/books/pontanusinstitutiones_10.xml) | | TEI-XML |
-| [Jakob Gretser](https://www.wikidata.org/wiki/Q97263) | Udo | [ed. Rädle 1979](https://doi.org/10.1515/9783110831535) | [gretudon](gretudon) | pdf/txt |
-| Anonymus | Theophilus | [ed. Rädle 1979](https://doi.org/10.1515/9783110831535) | [anontheo](anontheo) | pdf/txt |
-| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Nascens | ed. Saulini 2011 (?) | | |
-| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Patiens | ed. Saulini 2011 (?) | | |
-| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Iudex | ed. Saulini 2011 (?) | | |
-| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Goliath | ed. Saulini 2017 (?) | | |
-| [Giuseppe Enrico Carpani](https://www.wikidata.org/wiki/Q27188260#sitelinks-wikipedia) | Ionathas | ed. Sanzotta / [ed. 1746](https://www.digitale-sammlungen.de/en/view/bsb00069323)| | |
-| [Giuseppe Enrico Carpani](https://www.wikidata.org/wiki/Q27188260#sitelinks-wikipedia) | Adonias | [ed. 1746](https://www.digitale-sammlungen.de/en/view/bsb00069323)| | |
-| [Giuseppe Enrico Carpani](https://www.wikidata.org/wiki/Q27188260#sitelinks-wikipedia) | Evilmerodach | [ed. 1746](https://www.digitale-sammlungen.de/en/view/bsb00069323)| | |
-| [Giuseppe Enrico Carpani](https://www.wikidata.org/wiki/Q27188260#sitelinks-wikipedia) | Sennacherib | [ed. 1746](https://www.digitale-sammlungen.de/en/view/bsb00069323)| | |
-| [Giuseppe Enrico Carpani](https://www.wikidata.org/wiki/Q27188260#sitelinks-wikipedia) | Sedecias | [ed. 1746](https://www.digitale-sammlungen.de/en/view/bsb00069323)| | |
-| [Giuseppe Enrico Carpani](https://www.wikidata.org/wiki/Q27188260#sitelinks-wikipedia) | Mathathias | [ed. 1746](https://www.digitale-sammlungen.de/en/view/bsb00069323)| | |
+| [Jakob Gretser](https://www.wikidata.org/wiki/Q97263) | Udo | [ed. Rädle 1979](https://doi.org/10.1515/9783110831535) | [gretudon](gretudon) | txt |
+| Anonymus | Theophilus | [ed. Rädle 1979](https://doi.org/10.1515/9783110831535) | [anontheo](anontheo) | txt |
+| [Giuseppe Enrico Carpani](https://www.wikidata.org/wiki/Q27188260#sitelinks-wikipedia) | Ionathas | ed. Sanzotta / [ed. 1746](https://www.digitale-sammlungen.de/en/view/bsb00069323)| [carpjona](carpjona) | PageXML |
+| [Giuseppe Enrico Carpani](https://www.wikidata.org/wiki/Q27188260#sitelinks-wikipedia) | Adonias | [ed. 1746](https://www.digitale-sammlungen.de/en/view/bsb00069323)| [carpadon](carpadon) | PageXML |
+| [Giuseppe Enrico Carpani](https://www.wikidata.org/wiki/Q27188260#sitelinks-wikipedia) | Evilmerodach | [ed. 1746](https://www.digitale-sammlungen.de/en/view/bsb00069323)| [carpadon](carpadon) | PageXML |
+| [Giuseppe Enrico Carpani](https://www.wikidata.org/wiki/Q27188260#sitelinks-wikipedia) | Sennacherib | [ed. 1746](https://www.digitale-sammlungen.de/en/view/bsb00069323)| [carpsenn](carpsenn) | PageXML |
+| [Giuseppe Enrico Carpani](https://www.wikidata.org/wiki/Q27188260#sitelinks-wikipedia) | Sedecias | [ed. 1746](https://www.digitale-sammlungen.de/en/view/bsb00069323)| [carpsede](carpsede) | PageXML |
+| [Giuseppe Enrico Carpani](https://www.wikidata.org/wiki/Q27188260#sitelinks-wikipedia) | Mathathias | [ed. 1746](https://www.digitale-sammlungen.de/en/view/bsb00069323)| [carmpmath](carpmath) | PageXML |
 | [Bernardino Stefonio](https://www.wikidata.org/wiki/Q59527928) | Flavia | ed. Saulini / [Tragoediae Selectae I (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11103749-3)| [stepflav](stepflav) | PageXML |
 | [Bernardino Stefonio](https://www.wikidata.org/wiki/Q59527928) | Crispus | [Tragoediae Selectae I (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11103749-3) | [stepcris](stepcris) | PageXML |
 | [Alessandro Donati](https://www.wikidata.org/wiki/Q20203291#sitelinks-wikipedia) | Suevia | [Tragoediae Selectae I (1634)](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11103749-3) | [donasvev](donasvev) | PageXML |
@@ -102,6 +98,22 @@ We intend to make available documentation and/or tutorials on how to produce, us
 | [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Felicitas. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [causfeli](causfeli) | PageXML |
 | [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Theodoricus. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [caustheo](caustheo) | PageXML |
 | [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Hermenigildus. Actio oratoria. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [causherm](causherm) | PageXML |
+| | De Godefrido Bullonio Duce | ed. Reinhardstöttner 1897 | | pdf |
+
+
+### Editions from manuscripts possibly protected by neighbouring rights
+
+According to German copyright law ([§71 UrhG](https://www.gesetze-im-internet.de/urhg/__71.html)) the first edition of "a previously unreleased work" can be protected for 25 years.
+The following texts are edited from manuscripts which can possbily be considered as "previously unreleased".
+
+
+
+| Author | Title | Source | Folder | Status |
+| --- | --- | --- | --- | --- | 
+| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Nascens | ed. Saulini 2011 (?) | | |
+| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Patiens | ed. Saulini 2011 (?) | | |
+| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Iudex | ed. Saulini 2011 (?) | | |
+| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Goliath | ed. Saulini 2017 (?) | | |
 | [Thomas Compton Carleton](http://www.wikidata.org/entity/Q18529060#sitelinks-wikipedia) | Fatum Vortigerni | [ed. Sutton 2007](http://www.philological.bham.ac.uk/vort/), possibly protected by neighbouring rights | | html |
 | Francis Clarke | Homo duplex | [ed. Sutton 2021](http://www.philological.bham.ac.uk/duplex/), possibly protected by neighbouring rights | | html |
 | Karel Kolčava | Purpuratus martyr d. Wenceslaus rex | | |  |
@@ -134,6 +146,12 @@ We intend to make available documentation and/or tutorials on how to produce, us
 | | Thomas Morus | [ed. Sutton](http://www.philological.bham.ac.uk/more), possibly protected by neighbouring rights | | html |
 | | Vulpinus | [ed. Sutton](http://www.philological.bham.ac.uk/vulp), possibly protected by neighbouring rights | | html |
 
+
+## To-do's
+
+- Check line segmentation
+- Vet OCR quality
+- Attach proper metadata on sources
 
 ## Possible further developments 
 
