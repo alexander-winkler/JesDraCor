@@ -102,6 +102,38 @@ We intend to make available documentation and/or tutorials on how to produce, us
 | [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Felicitas. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [causfeli](causfeli) | PageXML |
 | [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Theodoricus. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [caustheo](caustheo) | PageXML |
 | [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Hermenigildus. Actio oratoria. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [causherm](causherm) | PageXML |
+| [Thomas Compton Carleton](http://www.wikidata.org/entity/Q18529060#sitelinks-wikipedia) | Fatum Vortigerni | [ed. Sutton 2007](http://www.philological.bham.ac.uk/vort/), possibly protected by neighbouring rights | | html |
+| Francis Clarke | Homo duplex | [ed. Sutton 2021](http://www.philological.bham.ac.uk/duplex/), possibly protected by neighbouring rights | | html |
+| Karel Kolčava | Purpuratus martyr d. Wenceslaus rex | | |  |
+| Karel Kolčava | Tyrannis triumpans et triumphata, seu Anglia | [ed. Riley 2020](http://www.philological.bham.ac.uk/tyrannis/), possibly protected by neighbouring rights |  | html | 
+| Francis Clarke | Innocentia Purpurata seu Rosa Candida et Rubicunda | [ed. Sutton 2020](http://www.philological.bham.ac.uk/innocentia/), possibly protected by neighbouring rights |  | html | 
+| Edward Cuffaud | Felix Concordia Fratrum sive Ioannes et Paulus | [ed. Sutton 2008](http://www.philological.bham.ac.uk/concordia/), possibly protected by neighbouring rights  |  | html | 
+| Edward Cuffaud | Furor Impius sive Constans Fratricida | [ed. Sutton 2020](http://www.philological.bham.ac.uk/furor/), possibly protected by neighbouring rights  |  | html | 
+| Edward Cuffaud | Gemitus Columbae sive Theophili Lachrymae | [ed. Sutton 2008](http://www.philological.bham.ac.uk/gemitus/), possibly protected by neighbouring rights  |  | html | 
+| Joseph Simons | Leo Armenus | [ed. Sutton 2013](http://www.philological.bham.ac.uk/leo/), possibly protected by neighbouring rights | | html |
+| Joseph Simons | Mercia, sive Pietas Coronata | [ed. Sutton 2013](http://www.philological.bham.ac.uk/mercia/), possibly protected by neighbouring rights | | html |
+| Joseph Simons | Montezuma | [ed. Sutton 2010](http://www.philological.bham.ac.uk/montezuma/), possibly protected by neighbouring rights | | html |
+| Joseph Simons | Sanctus Damianus | [ed. Sutton 2010](http://www.philological.bham.ac.uk/damianus/), possibly protected by neighbouring rights | | html |
+| Joseph Simons | Sanctus Pelagius Martyr | [ed. Sutton 2010](http://www.philological.bham.ac.uk/pelagius/), possibly protected by neighbouring rights | | html |
+| Joseph Simons | Theoctistus | [ed. Sutton 2013](http://www.philological.bham.ac.uk/theo/), possibly protected by neighbouring rights | | html |
+| Joseph Simons | Vitus | [ed. Sutton 2013](http://www.philological.bham.ac.uk/vitus/), possibly protected by neighbouring rights | | html |
+| Joseph Simons | Zeno | [ed. Sutton 2014](http://www.philological.bham.ac.uk/zeno/), possibly protected by neighbouring rights | | html |
+| | Ambitio Infaelix sive Absalon | [ed. Sutton](http://www.philological.bham.ac.uk/absalom), possibly protected by neighbouring rights | | html |
+| | Ananias, Azarias, Mizael | [ed. Sutton](http://www.philological.bham.ac.uk/ananias), possibly protected by neighbouring rights | | html |
+| | Artaxerxes | [ed. Sutton](http://www.philological.bham.ac.uk/artaxerxes/), possibly protected by neighbouring rights | | html |
+| | Basilindus | [ed. Sutton](http://www.philological.bham.ac.uk/basilindus), possibly protected by neighbouring rights | | html |
+| | Captiva Religio | [ed. Sutton](http://www.philological.bham.ac.uk/capt), possibly protected by neighbouring rights | | html |
+| | Crux Vindicata | [ed. Sutton](http://www.philological.bham.ac.uk/crux), possibly protected by neighbouring rights | | html |
+| | Fortunae Ludibrium sive Bellisarius | [ed. Sutton](http://www.philological.bham.ac.uk/fortuna), possibly protected by neighbouring rights | | html |
+| | Magister Bonus sive Arsenius | [ed. Sutton](http://www.philological.bham.ac.uk/arsenius), possibly protected by neighbouring rights | | html |
+| | Minutum | [ed. Sutton](http://www.philological.bham.ac.uk/minutum), possibly protected by neighbouring rights | | html |
+| | Morus | [ed. Sutton](http://www.philological.bham.ac.uk/morus), possibly protected by neighbouring rights | | html |
+| | Psyche et Filii Eius | [ed. Sutton](http://www.philological.bham.ac.uk/psyche), possibly protected by neighbouring rights | | html |
+| | Roffensis | [ed. Sutton](http://www.philological.bham.ac.uk/roff), possibly protected by neighbouring rights | | html |
+| | Thomas Cantuariensis | [ed. Sutton](http://www.philological.bham.ac.uk/thomcant), possibly protected by neighbouring rights | | html |
+| | Thomas Morus | [ed. Sutton](http://www.philological.bham.ac.uk/more), possibly protected by neighbouring rights | | html |
+| | Vulpinus | [ed. Sutton](http://www.philological.bham.ac.uk/vulp), possibly protected by neighbouring rights | | html |
+
 
 ## Possible further developments 
 
