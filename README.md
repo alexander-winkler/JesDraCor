@@ -25,7 +25,7 @@ We intend to make available documentation and/or tutorials on how to produce, us
 | --- | --- | --- | --- | --- | 
 | [Jeremias Drexel](https://www.wikidata.org/wiki/Q67095) | Iulianus Apostata Tragoedia | [ed. Abele 2018](https://doi.org/10.1515/9783110593730) | [drexiul](drexiuli) | pdf/txt | 
 | [Francesco Benci](https://www.wikidata.org/wiki/Q30014571) | Ergastus | [VD16 B 1675](http://gateway-bayern.de/VD16+B+1675) | [bencerga](bencerga) | [scan](shttp://resolver.staatsbibliothek-berlin.de/SBB0002080D00000000) / PageXML | [bencphil](bencphil)
-| [Francesco Benci](https://www.wikidata.org/wiki/Q30014571) | Philotimus | [VD16 B 1675](http://gateway-bayern.de/VD16+B+1675) | | [scan](http://resolver.staatsbibliothek-berlin.de/SBB0002080D00000000) / PageXML |
+| [Francesco Benci](https://www.wikidata.org/wiki/Q30014571) | Philotimus | [VD16 B 1675](http://gateway-bayern.de/VD16+B+1675) | [bencphil](bencphil) | [scan](http://resolver.staatsbibliothek-berlin.de/SBB0002080D00000000) / PageXML |
 | [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Sosa naufragus | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_1.xml) | | TEI-XML |
 | [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Pomum Theodosii  | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_2.xml) | | TEI-XML |
 | [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Theodosius Magnus  | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_3.xml) | | TEI-XML |
@@ -97,6 +97,11 @@ We intend to make available documentation and/or tutorials on how to produce, us
 | [Charles Porée](https://www.wikidata.org/wiki/Q2960049) | Misoponus, sive Otiosus. Drama Comicum | [ed. 1755](https://digital.slub-dresden.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=oai:de:slub-dresden:db:id-325537976) | [poremiso](poremiso) | PageXML |
 | [Charles Porée](https://www.wikidata.org/wiki/Q2960049) | Liberi in deligendo vitae instituto coacti, Fabula | [ed. 1755](https://digital.slub-dresden.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=oai:de:slub-dresden:db:id-325537976) | [porelibe](porelibe) | PageXML |
 | [Charles Porée](https://www.wikidata.org/wiki/Q2960049) | Philedonus sive Juvenis Voluptarius a liberiore vita revocatus | [ed. 1755](https://digital.slub-dresden.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=oai:de:slub-dresden:db:id-325537976) | [porephil](porephil) | PageXML |
+| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Solyma. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | | PageXML |
+| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Nabuchodonosor. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | | PageXML |
+| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Felicitas. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | | PageXML |
+| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Theodoricus. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | | PageXML |
+| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Hermenigildus. Actio oratoria. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | | PageXML |
 
 ## Possible further developments 
 

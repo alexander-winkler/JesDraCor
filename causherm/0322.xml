@@ -1,0 +1,2436 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>OCR4all</Creator>
+    <Created>2022-01-21T22:12:51</Created>
+    <LastChange>2022-01-21T22:12:51</LastChange>
+  </Metadata>
+  <Page imageFilename="0322.png" imageHeight="1222" imageWidth="674">
+    <TextRegion id="r0" type="paragraph">
+      <Coords points="1,1 672,1 672,1220 1,1220"/>
+      <TextLine id="r0_l001">
+        <Coords points="1,81 169,81 169,48 1,48 1,81"/>
+        <Word id="w45971">
+          <Coords points="75,48 117,48 117,81 75,81"/>
+          <Glyph id="w45971g0">
+            <Coords points="75,48 75,48 75,81 75,81"/>
+            <TextEquiv index="1" conf="0.8990154027938844">
+              <Unicode>3</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45971g1">
+            <Coords points="92,48 96,48 96,81 92,81"/>
+            <TextEquiv index="1" conf="0.9393658876419066">
+              <Unicode>1</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45971g2">
+            <Coords points="113,48 117,48 117,81 113,81"/>
+            <TextEquiv index="1" conf="0.9563123583793641">
+              <Unicode>6</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8076099961941852">
+            <Unicode>316</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9315645496050516">
+          <Unicode>316</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l002">
+        <Coords points="70,172 666,172 666,112 70,112 70,172"/>
+        <Word id="w45972">
+          <Coords points="147,112 426,112 426,172 147,172"/>
+          <Glyph id="w45972g0">
+            <Coords points="147,112 302,112 302,172 147,172"/>
+            <TextEquiv index="1" conf="0.7769526600837708">
+              <Unicode>:</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45972g1">
+            <Coords points="302,112 379,112 379,172 302,172"/>
+            <TextEquiv index="1" conf="0.7185759097337723">
+              <Unicode>:</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45972g2">
+            <Coords points="379,112 426,112 426,172 379,172"/>
+            <TextEquiv index="1" conf="0.46580219308089">
+              <Unicode>.</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.2600571149785114">
+            <Unicode>::.</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.6537769209661444">
+          <Unicode>::.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l003">
+        <Coords points="1,206 666,206 666,172 1,172 1,206"/>
+        <Word id="w45973">
+          <Coords points="138,172 138,172 138,206 138,206"/>
+          <Glyph id="w45973g0">
+            <Coords points="138,172 138,172 138,206 138,206"/>
+            <TextEquiv index="1" conf="0.7086040005087852">
+              <Unicode>·</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.7086040005087852">
+            <Unicode>·</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45974">
+          <Coords points="214,172 214,172 214,206 214,206"/>
+          <Glyph id="w45974g0">
+            <Coords points="214,172 214,172 214,206 214,206"/>
+            <TextEquiv index="1" conf="0.9720393657684326">
+              <Unicode>.</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9720393657684326">
+            <Unicode>.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45975">
+          <Coords points="273,172 286,172 286,206 273,206"/>
+          <Glyph id="w45975g0">
+            <Coords points="273,172 273,172 273,206 273,206"/>
+            <TextEquiv index="1" conf="0.38217469056447345">
+              <Unicode>S</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45975g1">
+            <Coords points="286,172 286,172 286,206 286,206"/>
+            <TextEquiv index="1" conf="0.7896359205245972">
+              <Unicode>.</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.3017788635850811">
+            <Unicode>S.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45976">
+          <Coords points="444,172 498,172 498,206 444,206"/>
+          <Glyph id="w45976g0">
+            <Coords points="444,172 498,172 498,206 444,206"/>
+            <TextEquiv index="1" conf="0.342369019985199">
+              <Unicode></Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.342369019985199">
+            <Unicode></Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.6726494654109983">
+          <Unicode>· . S.    </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l004">
+        <Coords points="81,236 666,236 666,206 81,206 81,236"/>
+        <Word id="w45977">
+          <Coords points="387,206 387,206 387,236 387,236"/>
+          <Glyph id="w45977g0">
+            <Coords points="387,206 387,206 387,236 387,236"/>
+            <TextEquiv index="1" conf="0.30952539294958115">
+              <Unicode>s</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.30952539294958115">
+            <Unicode>s</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.8625150196050526">
+          <Unicode>     s   </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l005">
+        <Coords points="664,316 664,313 665,312 665,258 666,257 666,253 665,252 665,236 665,235 662,235 661,236 661,247 581,247 580,248 574,248 572,250 427,250 425,248 363,248 362,247 351,247 350,247 350,242 350,241 349,242 348,242 347,243 347,245 346,246 347,247 320,247 319,248 199,248 198,249 195,249 194,250 97,250 96,249 93,249 89,253 89,254 88,255 88,258 87,259 87,261 86,262 86,264 85,265 85,266 84,267 84,268 83,269 83,271 82,272 82,276 81,277 81,278 80,279 80,280 79,281 79,283 77,285 77,287 76,288 73,288 70,291 70,292 44,292 42,294 42,296 43,296 73,296 75,298 77,298 77,297 79,295 165,295 166,294 253,294 253,293 254,292 445,292 445,293 445,294 447,295 448,295 449,294 510,294 511,293 661,293 661,294 661,298 660,299 660,311 659,312 659,315 660,315 662,315 663,316 664,316"/>
+        <Word id="w45978">
+          <Coords points="99,235 594,235 594,316 99,316"/>
+          <Glyph id="w45978g0">
+            <Coords points="99,235 107,235 107,316 99,316"/>
+            <TextEquiv index="1" conf="0.9992108225822449">
+              <Unicode>A</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45978g1">
+            <Coords points="147,235 172,235 172,316 147,316"/>
+            <TextEquiv index="1" conf="0.9980615377426147">
+              <Unicode>R</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45978g2">
+            <Coords points="221,235 229,235 229,316 221,316"/>
+            <TextEquiv index="1" conf="0.9921436905860902">
+              <Unicode>G</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45978g3">
+            <Coords points="269,235 277,235 277,316 269,316"/>
+            <TextEquiv index="1" conf="0.9893912315368651">
+              <Unicode>V</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45978g4">
+            <Coords points="302,235 334,235 334,316 302,316"/>
+            <TextEquiv index="1" conf="0.9973074793815614">
+              <Unicode>M</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45978g5">
+            <Coords points="383,235 391,235 391,316 383,316"/>
+            <TextEquiv index="1" conf="0.9919564843177795">
+              <Unicode>E</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45978g6">
+            <Coords points="407,235 440,235 440,316 407,316"/>
+            <TextEquiv index="1" conf="0.9664637327194214">
+              <Unicode>N</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45978g7">
+            <Coords points="472,235 489,235 489,316 472,316"/>
+            <TextEquiv index="1" conf="0.939908230304718">
+              <Unicode>T</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45978g8">
+            <Coords points="529,235 537,235 537,316 529,316"/>
+            <TextEquiv index="1" conf="0.9833373904228211">
+              <Unicode>V</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45978g9">
+            <Coords points="554,235 594,235 594,316 554,316"/>
+            <TextEquiv index="1" conf="0.991967821121216">
+              <Unicode>M</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8581237634448137">
+            <Unicode>ARGVMENTVM</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9849748420715333">
+          <Unicode>ARGVMENTVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l006">
+        <Coords points="656,377 657,376 658,376 658,375 659,374 659,372 660,371 660,370 661,369 661,368 662,367 662,339 663,338 663,317 662,315 660,315 659,316 659,321 658,322 658,325 315,325 314,324 312,324 311,323 251,323 250,322 230,322 229,321 161,321 160,322 91,322 89,324 89,336 52,336 50,338 51,338 87,338 87,339 87,348 89,349 114,349 115,350 303,350 304,351 334,351 335,352 374,352 375,353 654,353 654,354 654,377 655,377 656,377"/>
+        <Word id="w45979">
+          <Coords points="108,315 199,315 199,377 108,377"/>
+          <Glyph id="w45979g0">
+            <Coords points="108,315 114,315 114,377 108,377"/>
+            <TextEquiv index="1" conf="0.9556254625320435">
+              <Unicode>E</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45979g1">
+            <Coords points="140,315 140,315 140,377 140,377"/>
+            <TextEquiv index="1" conf="0.9112467169761658">
+              <Unicode>X</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45979g2">
+            <Coords points="167,315 172,315 172,377 167,377"/>
+            <TextEquiv index="1" conf="0.9932406425476075">
+              <Unicode>S</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45979g3">
+            <Coords points="188,315 188,315 188,377 188,377"/>
+            <TextEquiv index="1" conf="0.9655693173408508">
+              <Unicode>S</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45979g4">
+            <Coords points="199,315 199,315 199,377 199,377"/>
+            <TextEquiv index="1" conf="0.9985907077789307">
+              <Unicode>.</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8339675437426489">
+            <Unicode>EXSS.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45980">
+          <Coords points="231,315 573,315 573,377 231,377"/>
+          <Glyph id="w45980g0">
+            <Coords points="231,315 236,315 236,377 231,377"/>
+            <TextEquiv index="1" conf="0.9831647276878357">
+              <Unicode>G</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45980g1">
+            <Coords points="252,315 263,315 263,377 252,377"/>
+            <TextEquiv index="1" conf="0.9843124270439148">
+              <Unicode>R</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45980g2">
+            <Coords points="284,315 290,315 290,377 284,377"/>
+            <TextEquiv index="1" conf="0.9917865753173828">
+              <Unicode>E</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45980g3">
+            <Coords points="311,315 316,315 316,377 311,377"/>
+            <TextEquiv index="1" conf="0.9729559183120726">
+              <Unicode>G</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45980g4">
+            <Coords points="343,315 349,315 349,377 343,377"/>
+            <TextEquiv index="1" conf="0.9968457579612733">
+              <Unicode>O</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45980g5">
+            <Coords points="365,315 375,315 375,377 365,377"/>
+            <TextEquiv index="1" conf="0.9936059832572937">
+              <Unicode>R</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45980g6">
+            <Coords points="397,315 397,315 397,377 397,377"/>
+            <TextEquiv index="1" conf="0.9953247189521789">
+              <Unicode>I</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45980g7">
+            <Coords points="418,315 423,315 423,377 418,377"/>
+            <TextEquiv index="1" conf="0.9984264254570007">
+              <Unicode>O</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45980g8">
+            <Coords points="450,315 461,315 461,377 450,377"/>
+            <TextEquiv index="1" conf="0.9960680961608886">
+              <Unicode>R</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45980g9">
+            <Coords points="482,315 493,315 493,377 482,377"/>
+            <TextEquiv index="1" conf="0.9938654422760009">
+              <Unicode>O</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45980g10">
+            <Coords points="503,315 530,315 530,377 503,377"/>
+            <TextEquiv index="1" conf="0.9832201957702638">
+              <Unicode>M</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45980g11">
+            <Coords points="546,315 551,315 551,377 546,377"/>
+            <TextEquiv index="1" conf="0.9928090214729309">
+              <Unicode>A</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45980g12">
+            <Coords points="567,315 573,315 573,377 567,377"/>
+            <TextEquiv index="1" conf="0.857058122754097">
+              <Unicode>-</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.7612671117072976">
+            <Unicode>GREGORIOROMA-</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9768585288210917">
+          <Unicode>EXSS. GREGORIOROMA-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l007">
+        <Coords points="115,411 537,411 537,375 115,375 115,411"/>
+        <Word id="w45981">
+          <Coords points="122,375 162,375 162,411 122,411"/>
+          <Glyph id="w45981g0">
+            <Coords points="122,375 122,375 122,411 122,411"/>
+            <TextEquiv index="1" conf="0.9955150365829468">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45981g1">
+            <Coords points="146,375 150,375 150,411 146,411"/>
+            <TextEquiv index="1" conf="0.9986798167228699">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45981g2">
+            <Coords points="158,375 162,375 162,411 158,411"/>
+            <TextEquiv index="1" conf="0.8084906876087189">
+              <Unicode>,</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8038020676183686">
+            <Unicode>no,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45982">
+          <Coords points="194,375 210,375 210,411 194,411"/>
+          <Glyph id="w45982g0">
+            <Coords points="194,375 198,375 198,411 194,411"/>
+            <TextEquiv index="1" conf="0.9984233856201171">
+              <Unicode>T</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45982g1">
+            <Coords points="206,375 210,375 210,411 206,411"/>
+            <TextEquiv index="1" conf="0.9995117783546448">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9979359337120285">
+            <Unicode>Tu</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45983">
+          <Coords points="234,375 350,375 350,411 234,411"/>
+          <Glyph id="w45983g0">
+            <Coords points="234,375 234,375 234,411 234,411"/>
+            <TextEquiv index="1" conf="0.885117483139038">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45983g1">
+            <Coords points="250,375 258,375 258,411 250,411"/>
+            <TextEquiv index="1" conf="0.9998415589332581">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45983g2">
+            <Coords points="266,375 270,375 270,411 266,411"/>
+            <TextEquiv index="1" conf="0.9999369502067567">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45983g3">
+            <Coords points="290,375 290,375 290,411 290,411"/>
+            <TextEquiv index="1" conf="0.999985933303833">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45983g4">
+            <Coords points="302,375 302,375 302,411 302,411"/>
+            <TextEquiv index="1" conf="0.9998547434806824">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45983g5">
+            <Coords points="322,375 322,375 322,411 322,411"/>
+            <TextEquiv index="1" conf="0.9976272583007812">
+              <Unicode>ſ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45983g6">
+            <Coords points="330,375 334,375 334,411 330,411"/>
+            <TextEquiv index="1" conf="0.9961474061012268">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45983g7">
+            <Coords points="350,375 350,375 350,411 350,411"/>
+            <TextEquiv index="1" conf="0.9989092350006104">
+              <Unicode>,</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8783214041117046">
+            <Unicode>ronenſi,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45984">
+          <Coords points="374,375 390,375 390,411 374,411"/>
+          <Glyph id="w45984g0">
+            <Coords points="374,375 390,375 390,411 374,411"/>
+            <TextEquiv index="1" conf="0.999949860572815">
+              <Unicode>&amp;</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.999949860572815">
+            <Unicode>&amp;</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45985">
+          <Coords points="418,375 534,375 534,411 418,411"/>
+          <Glyph id="w45985g0">
+            <Coords points="418,375 422,375 422,411 418,411"/>
+            <TextEquiv index="1" conf="0.9997677564620973">
+              <Unicode>B</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45985g1">
+            <Coords points="430,375 434,375 434,411 430,411"/>
+            <TextEquiv index="1" conf="0.9999764680862427">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45985g2">
+            <Coords points="450,375 450,375 450,411 450,411"/>
+            <TextEquiv index="1" conf="0.9989945054054261">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45985g3">
+            <Coords points="466,375 470,375 470,411 466,411"/>
+            <TextEquiv index="1" conf="0.9999599695205688">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45985g4">
+            <Coords points="482,375 482,375 482,411 482,411"/>
+            <TextEquiv index="1" conf="0.9997779846191407">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45985g5">
+            <Coords points="498,375 502,375 502,411 498,411"/>
+            <TextEquiv index="1" conf="0.9983095288276673">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45985g6">
+            <Coords points="518,375 522,375 522,411 518,411"/>
+            <TextEquiv index="1" conf="0.9995356440544129">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45985g7">
+            <Coords points="530,375 534,375 534,411 530,411"/>
+            <TextEquiv index="1" conf="0.9975603461265565">
+              <Unicode>.</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9938958320410648">
+            <Unicode>Baronio.</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9852572677227165">
+          <Unicode>no, Tu ronenſi, &amp; Baronio.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l008">
+        <Coords points="163,530 164,529 165,529 165,526 166,525 661,525 663,527 664,527 665,526 665,474 664,473 664,467 663,466 663,465 662,463 660,463 659,464 659,473 230,473 229,472 197,472 196,472 196,465 196,464 194,464 191,467 191,468 190,469 190,472 184,472 183,473 182,473 181,474 159,474 157,476 157,479 148,479 147,480 147,495 148,496 148,514 149,515 149,518 150,519 150,520 153,522 157,522 158,523 159,523 159,524 159,529 160,529 161,529 162,530 163,530"/>
+        <Word id="w45986">
+          <Coords points="308,463 492,463 492,530 308,530"/>
+          <Glyph id="w45986g0">
+            <Coords points="308,463 356,463 356,530 308,530"/>
+            <TextEquiv index="1" conf="0.47668441012501717">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45986g1">
+            <Coords points="356,463 370,463 370,530 356,530"/>
+            <TextEquiv index="1" conf="0.29720739740878344">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45986g2">
+            <Coords points="376,463 390,463 390,530 376,530"/>
+            <TextEquiv index="1" conf="0.4171408087713644">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45986g3">
+            <Coords points="404,463 410,463 410,530 404,530"/>
+            <TextEquiv index="1" conf="0.9720125317573547">
+              <Unicode>g</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45986g4">
+            <Coords points="424,463 424,463 424,530 424,530"/>
+            <TextEquiv index="1" conf="0.9987994909286498">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45986g5">
+            <Coords points="438,463 438,463 438,530 438,530"/>
+            <TextEquiv index="1" conf="0.570994034409523">
+              <Unicode>l</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45986g6">
+            <Coords points="451,463 451,463 451,530 451,530"/>
+            <TextEquiv index="1" conf="0.3765673562884331">
+              <Unicode>d</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45986g7">
+            <Coords points="465,463 472,463 472,530 465,530"/>
+            <TextEquiv index="1" conf="0.663521409034729">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45986g8">
+            <Coords points="486,463 492,463 492,530 486,530"/>
+            <TextEquiv index="1" conf="0.28108204901218414">
+              <Unicode>s</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.0023008362436603563">
+            <Unicode>rergildus</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45987">
+          <Coords points="540,463 595,463 595,530 540,530"/>
+          <Glyph id="w45987g0">
+            <Coords points="540,463 561,463 561,530 540,530"/>
+            <TextEquiv index="1" conf="0.24382821668041288">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45987g1">
+            <Coords points="574,463 574,463 574,530 574,530"/>
+            <TextEquiv index="1" conf="0.9928112775087357">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45987g2">
+            <Coords points="588,463 595,463 595,530 588,530"/>
+            <TextEquiv index="1" conf="0.997159942984581">
+              <Unicode>-</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.24138789534776872">
+            <Unicode>ei-</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.6275524111728112">
+          <Unicode> rergildus ei-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l009">
+        <Coords points="213,594 213,593 214,592 222,592 224,590 228,590 230,588 230,586 231,585 232,585 233,584 233,583 234,582 235,582 236,581 236,576 237,575 239,575 239,573 240,572 269,572 270,571 272,571 273,570 294,570 294,559 295,558 554,558 554,559 554,560 555,561 555,567 556,567 558,567 558,566 559,565 661,565 662,564 663,564 664,563 664,560 665,559 665,545 664,544 664,528 664,527 663,527 661,525 432,525 431,525 431,521 430,519 428,519 427,520 426,520 425,521 188,521 187,522 179,522 178,523 176,523 175,524 174,524 173,525 173,526 172,526 170,528 166,528 165,529 164,529 161,532 161,573 162,573 164,573 164,574 164,581 165,582 165,583 166,583 167,583 167,584 167,585 168,585 169,585 169,586 169,587 173,590 175,590 177,592 179,592 180,593 190,593 191,594 213,594"/>
+        <Word id="w45988">
+          <Coords points="393,519 442,519 442,594 393,594"/>
+          <Glyph id="w45988g0">
+            <Coords points="393,519 393,519 393,594 393,594"/>
+            <TextEquiv index="1" conf="0.9832015633583069">
+              <Unicode>c</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45988g1">
+            <Coords points="409,519 417,519 417,594 409,594"/>
+            <TextEquiv index="1" conf="0.5553444623947144">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45988g2">
+            <Coords points="442,519 442,519 442,594 442,594"/>
+            <TextEquiv index="1" conf="0.7584890127182007">
+              <Unicode>d</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.41414679061584686">
+            <Unicode>cad</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45989">
+          <Coords points="599,519 599,519 599,594 599,594"/>
+          <Glyph id="w45989g0">
+            <Coords points="599,519 599,519 599,594 599,594"/>
+            <TextEquiv index="1" conf="0.5246849656105042">
+              <Unicode>-</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.5246849656105042">
+            <Unicode>-</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.7983030557632446">
+          <Unicode> cad -</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l010">
+        <Coords points="267,622 268,621 505,621 506,620 509,620 510,619 665,619 665,586 666,585 666,580 665,579 665,570 664,569 664,564 664,563 663,564 662,564 660,566 660,570 293,570 292,571 292,581 236,581 234,583 234,584 233,584 231,586 231,589 229,589 226,592 226,593 225,594 225,595 224,596 224,600 223,601 223,602 224,602 233,602 233,603 233,604 234,604 254,604 254,605 254,616 255,617 255,618 257,619 258,619 259,620 261,620 262,621 263,621 264,622 267,622"/>
+        <Word id="w45990">
+          <Coords points="280,563 392,563 392,622 280,622"/>
+          <Glyph id="w45990g0">
+            <Coords points="280,563 280,563 280,622 280,622"/>
+            <TextEquiv index="1" conf="0.9989881634712219">
+              <Unicode>g</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45990g1">
+            <Coords points="297,563 297,563 297,622 297,622"/>
+            <TextEquiv index="1" conf="0.8655996680259703">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45990g2">
+            <Coords points="330,563 336,563 336,622 330,622"/>
+            <TextEquiv index="1" conf="0.6652594566345215">
+              <Unicode>ſ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45990g3">
+            <Coords points="347,563 347,563 347,622 347,622"/>
+            <TextEquiv index="1" conf="0.9237655997276306">
+              <Unicode>l</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45990g4">
+            <Coords points="358,563 358,563 358,622 358,622"/>
+            <TextEquiv index="1" conf="0.9725245952606201">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45990g5">
+            <Coords points="370,563 375,563 375,622 370,622"/>
+            <TextEquiv index="1" conf="0.9516608834266663">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45990g6">
+            <Coords points="392,563 392,563 392,622 392,622"/>
+            <TextEquiv index="1" conf="0.9989046692848205">
+              <Unicode>s</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.49128909152221456">
+            <Unicode>giſlius</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45991">
+          <Coords points="420,563 443,563 443,622 420,622"/>
+          <Glyph id="w45991g0">
+            <Coords points="420,563 426,563 426,622 420,622"/>
+            <TextEquiv index="1" conf="0.9987428307533264">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45991g1">
+            <Coords points="443,563 443,563 443,622 443,622"/>
+            <TextEquiv index="1" conf="0.9984005689620973">
+              <Unicode>b</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9971454104709366">
+            <Unicode>ab</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45992">
+          <Coords points="488,563 589,563 589,622 488,622"/>
+          <Glyph id="w45992g0">
+            <Coords points="488,563 488,563 488,622 488,622"/>
+            <TextEquiv index="1" conf="0.8593619823455811">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45992g1">
+            <Coords points="510,563 516,563 516,622 510,622"/>
+            <TextEquiv index="1" conf="0.998091173171997">
+              <Unicode>g</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45992g2">
+            <Coords points="527,563 527,563 527,622 527,622"/>
+            <TextEquiv index="1" conf="0.9889860033988953">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45992g3">
+            <Coords points="550,563 550,563 550,622 550,622"/>
+            <TextEquiv index="1" conf="0.9954274892807007">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45992g4">
+            <Coords points="572,563 578,563 578,622 572,622"/>
+            <TextEquiv index="1" conf="0.996510910987854">
+              <Unicode>d</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45992g5">
+            <Coords points="589,563 589,563 589,622 589,622"/>
+            <TextEquiv index="1" conf="0.5795017331838608">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.48762158776798886">
+            <Unicode>ngunde</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9276357957545448">
+          <Unicode>giſlius ab ngunde</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l011">
+        <Coords points="664,668 664,655 665,654 665,620 665,619 659,619 658,620 658,633 562,633 561,632 560,633 486,633 485,632 475,632 474,631 442,631 441,631 441,628 441,627 399,627 398,627 398,619 397,617 335,617 334,618 246,618 245,618 245,605 245,604 149,604 148,604 148,602 147,601 147,600 147,599 146,599 145,599 145,594 145,593 141,593 140,593 140,588 138,585 128,585 125,582 122,582 121,581 95,581 94,582 91,582 90,583 89,583 88,584 87,584 86,585 85,585 78,592 78,593 77,594 77,595 76,596 76,597 75,598 75,601 74,602 74,639 75,640 75,652 77,653 99,653 100,654 103,654 104,653 213,653 214,652 287,652 287,653 287,664 288,665 288,666 289,666 291,666 292,667 294,667 295,668 296,667 331,667 331,659 332,658 346,658 346,652 347,651 417,651 418,652 501,652 502,653 505,653 506,652 587,652 588,651 658,651 658,652 658,666 659,667 659,668 660,668 664,668"/>
+        <Word id="w45993">
+          <Coords points="316,581 408,581 408,668 316,668"/>
+          <Glyph id="w45993g0">
+            <Coords points="316,581 316,581 316,668 316,668"/>
+            <TextEquiv index="1" conf="0.6725438237190247">
+              <Unicode>g</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45993g1">
+            <Coords points="333,581 333,581 333,668 333,668"/>
+            <TextEquiv index="1" conf="0.861098051071167">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45993g2">
+            <Coords points="349,581 349,581 349,668 349,668"/>
+            <TextEquiv index="1" conf="0.4859214723110199">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45993g3">
+            <Coords points="374,581 374,581 374,668 374,668"/>
+            <TextEquiv index="1" conf="0.8392542600631714">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45993g4">
+            <Coords points="408,581 408,581 408,668 408,668"/>
+            <TextEquiv index="1" conf="0.5434653759002686">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.12835261474007648">
+            <Unicode>gauoi</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45994">
+          <Coords points="499,581 499,581 499,668 499,668"/>
+          <Glyph id="w45994g0">
+            <Coords points="499,581 499,581 499,668 499,668"/>
+            <TextEquiv index="1" conf="0.8322650790214539">
+              <Unicode>v</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8322650790214539">
+            <Unicode>v</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.7758600868284702">
+          <Unicode> gauoi v</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l012">
+        <Coords points="139,721 140,720 167,720 168,719 191,719 192,718 192,711 193,710 574,710 574,711 574,716 575,716 665,716 665,682 666,681 666,679 665,678 665,677 664,676 664,669 664,668 332,668 331,667 327,667 326,668 326,670 222,670 221,671 139,671 138,672 138,681 79,681 78,682 75,682 73,684 73,702 71,702 70,703 70,704 69,705 70,706 70,707 71,707 85,707 86,708 87,708 87,709 87,710 88,711 88,712 89,712 90,712 93,715 94,715 96,717 107,717 107,718 107,719 108,720 108,721 109,721 139,721"/>
+        <Word id="w45995">
+          <Coords points="81,667 154,667 154,721 81,721"/>
+          <Glyph id="w45995g0">
+            <Coords points="81,667 91,667 91,721 81,721"/>
+            <TextEquiv index="1" conf="0.9968801498413087">
+              <Unicode>R</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45995g1">
+            <Coords points="106,667 110,667 110,721 106,721"/>
+            <TextEquiv index="1" conf="0.9848988801240921">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45995g2">
+            <Coords points="125,667 130,667 130,721 125,721"/>
+            <TextEquiv index="1" conf="0.9997190475463869">
+              <Unicode>g</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45995g3">
+            <Coords points="139,667 144,667 144,721 139,721"/>
+            <TextEquiv index="1" conf="0.9993355751037598">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45995g4">
+            <Coords points="154,667 154,667 154,721 154,721"/>
+            <TextEquiv index="1" conf="0.9993445992469788">
+              <Unicode>s</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9802552489054066">
+            <Unicode>Regis</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45996">
+          <Coords points="192,667 279,667 279,721 192,721"/>
+          <Glyph id="w45996g0">
+            <Coords points="192,667 192,667 192,721 192,721"/>
+            <TextEquiv index="1" conf="0.6431035200754802">
+              <Unicode>f</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45996g1">
+            <Coords points="197,667 202,667 202,721 197,721"/>
+            <TextEquiv index="1" conf="0.8000438610712687">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45996g2">
+            <Coords points="207,667 212,667 212,721 207,721"/>
+            <TextEquiv index="1" conf="0.9923907279968263">
+              <Unicode>l</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45996g3">
+            <Coords points="221,667 221,667 221,721 221,721"/>
+            <TextEquiv index="1" conf="0.9998182773590089">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45996g4">
+            <Coords points="274,667 279,667 279,721 274,721"/>
+            <TextEquiv index="1" conf="0.9981529474258423">
+              <Unicode>,</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.5095602558804566">
+            <Unicode>fili,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45997">
+          <Coords points="318,667 366,667 366,721 318,721"/>
+          <Glyph id="w45997g0">
+            <Coords points="318,667 318,667 318,721 318,721"/>
+            <TextEquiv index="1" conf="0.8075281381607056">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45997g1">
+            <Coords points="327,667 332,667 332,721 327,721"/>
+            <TextEquiv index="1" conf="0.9832646727561951">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45997g2">
+            <Coords points="342,667 342,667 342,721 342,721"/>
+            <TextEquiv index="1" conf="0.9690931439399719">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45997g3">
+            <Coords points="361,667 366,667 366,721 361,721"/>
+            <TextEquiv index="1" conf="0.9995023727416993">
+              <Unicode>s</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.7690905065392711">
+            <Unicode>eius</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45998">
+          <Coords points="405,667 506,667 506,721 405,721"/>
+          <Glyph id="w45998g0">
+            <Coords points="405,667 414,667 414,721 405,721"/>
+            <TextEquiv index="1" conf="0.9674526453018188">
+              <Unicode>v</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45998g1">
+            <Coords points="429,667 434,667 434,721 429,721"/>
+            <TextEquiv index="1" conf="0.7517328679561615">
+              <Unicode>x</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45998g2">
+            <Coords points="443,667 443,667 443,721 443,721"/>
+            <TextEquiv index="1" conf="0.7218791425228118">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45998g3">
+            <Coords points="458,667 462,667 462,721 458,721"/>
+            <TextEquiv index="1" conf="0.998654890060425">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45998g4">
+            <Coords points="472,667 477,667 477,721 472,721"/>
+            <TextEquiv index="1" conf="0.9983609795570374">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45998g5">
+            <Coords points="501,667 506,667 506,721 501,721"/>
+            <TextEquiv index="1" conf="0.981791079044342">
+              <Unicode>,</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.5139014730385321">
+            <Unicode>vxore,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45999">
+          <Coords points="544,667 588,667 588,721 544,721"/>
+          <Glyph id="w45999g0">
+            <Coords points="544,667 549,667 549,721 544,721"/>
+            <TextEquiv index="1" conf="0.9969676971435547">
+              <Unicode>C</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45999g1">
+            <Coords points="559,667 564,667 564,721 559,721"/>
+            <TextEquiv index="1" conf="0.9569980263710023">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w45999g2">
+            <Coords points="583,667 588,667 588,721 583,721"/>
+            <TextEquiv index="1" conf="0.996977138519287">
+              <Unicode>-</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9512120181164471">
+            <Unicode>Ca-</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9459070064035464">
+          <Unicode>Regis fili, eius vxore, Ca-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l013">
+        <Coords points="182,770 182,769 183,768 231,768 231,767 232,766 248,766 249,765 661,765 661,766 661,767 663,768 664,768 665,769 666,769 666,763 665,762 665,717 665,716 565,716 564,715 563,715 562,714 561,715 558,715 557,716 557,719 89,719 87,721 87,729 86,730 86,732 74,732 72,734 72,735 71,736 71,737 69,737 67,739 67,748 66,749 66,755 68,756 180,756 180,757 180,770 181,770 182,770"/>
+        <Word id="w46000">
+          <Coords points="80,714 178,714 178,770 80,770"/>
+          <Glyph id="w46000g0">
+            <Coords points="80,714 80,714 80,770 80,770"/>
+            <TextEquiv index="1" conf="0.9883939027786255">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46000g1">
+            <Coords points="91,714 96,714 96,770 91,770"/>
+            <TextEquiv index="1" conf="0.9987101316452025">
+              <Unicode>h</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46000g2">
+            <Coords points="111,714 111,714 111,770 111,770"/>
+            <TextEquiv index="1" conf="0.9357063174247742">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46000g3">
+            <Coords points="127,714 127,714 127,770 127,770"/>
+            <TextEquiv index="1" conf="0.9954574227333068">
+              <Unicode>l</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46000g4">
+            <Coords points="137,714 137,714 137,770 137,770"/>
+            <TextEquiv index="1" conf="0.9998833894729615">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46000g5">
+            <Coords points="152,714 152,714 152,770 152,770"/>
+            <TextEquiv index="1" conf="0.9997523188591002">
+              <Unicode>c</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46000g6">
+            <Coords points="163,714 168,714 168,770 163,770"/>
+            <TextEquiv index="1" conf="0.9990270137786865">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46000g7">
+            <Coords points="178,714 178,714 178,770 178,770"/>
+            <TextEquiv index="1" conf="0.9981080532073975">
+              <Unicode>s</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9164912639444269">
+            <Unicode>tholicis</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46001">
+          <Coords points="204,714 404,714 404,770 204,770"/>
+          <Glyph id="w46001g0">
+            <Coords points="204,714 209,714 209,770 204,770"/>
+            <TextEquiv index="1" conf="0.9866382360458374">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46001g1">
+            <Coords points="229,714 234,714 234,770 229,770"/>
+            <TextEquiv index="1" conf="0.9979156136512756">
+              <Unicode>g</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46001g2">
+            <Coords points="250,714 255,714 255,770 250,770"/>
+            <TextEquiv index="1" conf="0.9959721207618714">
+              <Unicode>g</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46001g3">
+            <Coords points="270,714 270,714 270,770 270,770"/>
+            <TextEquiv index="1" conf="0.9897364735603332">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46001g4">
+            <Coords points="286,714 286,714 286,770 286,770"/>
+            <TextEquiv index="1" conf="0.6248248219490051">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46001g5">
+            <Coords points="301,714 301,714 301,770 301,770"/>
+            <TextEquiv index="1" conf="0.9972490191459655">
+              <Unicode>g</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46001g6">
+            <Coords points="317,714 317,714 317,770 317,770"/>
+            <TextEquiv index="1" conf="0.6573681235313416">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46001g7">
+            <Coords points="337,714 337,714 337,770 337,770"/>
+            <TextEquiv index="1" conf="0.9881589770317077">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46001g8">
+            <Coords points="348,714 353,714 353,770 348,770"/>
+            <TextEquiv index="1" conf="0.7432902008295059">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46001g9">
+            <Coords points="373,714 373,714 373,770 373,770"/>
+            <TextEquiv index="1" conf="0.9408025026321412">
+              <Unicode>s</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46001g10">
+            <Coords points="399,714 404,714 404,770 399,770"/>
+            <TextEquiv index="1" conf="0.9931407809257509">
+              <Unicode>,</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.27282461859538837">
+            <Unicode>aggregatus,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46002">
+          <Coords points="440,714 589,714 589,770 440,770"/>
+          <Glyph id="w46002g0">
+            <Coords points="440,714 440,714 440,770 440,770"/>
+            <TextEquiv index="1" conf="0.9923224806785584">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46002g1">
+            <Coords points="461,714 461,714 461,770 461,770"/>
+            <TextEquiv index="1" conf="0.9115931272506713">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46002g2">
+            <Coords points="471,714 476,714 476,770 471,770"/>
+            <TextEquiv index="1" conf="0.9381795287132264">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46002g3">
+            <Coords points="497,714 497,714 497,770 497,770"/>
+            <TextEquiv index="1" conf="0.9999240517616272">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46002g4">
+            <Coords points="507,714 512,714 512,770 507,770"/>
+            <TextEquiv index="1" conf="0.9993199586868287">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46002g5">
+            <Coords points="522,714 527,714 527,770 522,770"/>
+            <TextEquiv index="1" conf="0.9989466905593873">
+              <Unicode>c</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46002g6">
+            <Coords points="538,714 543,714 543,770 538,770"/>
+            <TextEquiv index="1" conf="0.9985694885253906">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46002g7">
+            <Coords points="558,714 558,714 558,770 558,770"/>
+            <TextEquiv index="1" conf="0.9998535275459289">
+              <Unicode>l</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46002g8">
+            <Coords points="574,714 574,714 574,770 574,770"/>
+            <TextEquiv index="1" conf="0.9996212601661683">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46002g9">
+            <Coords points="584,714 589,714 589,770 584,770"/>
+            <TextEquiv index="1" conf="0.9946143984794618">
+              <Unicode>-</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8409276157340319">
+            <Unicode>nouercali-</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9568305774081141">
+          <Unicode>tholicis aggregatus, nouercali-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l014">
+        <Coords points="366,815 367,814 374,814 378,810 378,809 379,808 379,807 380,806 496,806 497,805 498,805 501,802 501,800 503,798 571,798 572,797 573,797 577,793 577,791 578,790 595,790 595,789 596,788 665,788 666,787 667,787 667,786 668,785 668,781 667,780 667,777 666,776 666,770 666,769 665,769 664,768 663,768 662,767 615,767 614,768 615,768 661,768 661,769 661,774 396,774 395,774 395,765 395,764 392,764 390,766 258,766 257,767 170,767 169,768 167,768 166,769 166,770 72,770 71,771 71,785 70,786 70,787 69,788 69,792 68,793 68,795 67,796 67,803 68,803 114,803 115,802 356,802 356,803 356,811 357,811 358,811 360,813 361,813 362,814 363,814 364,815 366,815"/>
+        <Word id="w46003">
+          <Coords points="77,764 118,764 118,815 77,815"/>
+          <Glyph id="w46003g0">
+            <Coords points="77,764 77,764 77,815 77,815"/>
+            <TextEquiv index="1" conf="0.8095742583274842">
+              <Unicode>b</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46003g1">
+            <Coords points="95,764 95,764 95,815 95,815"/>
+            <TextEquiv index="1" conf="0.9992925882339478">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46003g2">
+            <Coords points="118,764 118,764 118,815 118,815"/>
+            <TextEquiv index="1" conf="0.9992681622505187">
+              <Unicode>s</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8084094980936012">
+            <Unicode>bus</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46004">
+          <Coords points="145,764 208,764 208,815 145,815"/>
+          <Glyph id="w46004g0">
+            <Coords points="145,764 149,764 149,815 145,815"/>
+            <TextEquiv index="1" conf="0.977858543395996">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46004g1">
+            <Coords points="167,764 172,764 172,815 167,815"/>
+            <TextEquiv index="1" conf="0.999838674068451">
+              <Unicode>d</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46004g2">
+            <Coords points="181,764 185,764 185,815 181,815"/>
+            <TextEquiv index="1" conf="0.9993359446525574">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46004g3">
+            <Coords points="194,764 194,764 194,815 194,815"/>
+            <TextEquiv index="1" conf="0.9995305657386779">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46004g4">
+            <Coords points="208,764 208,764 208,815 208,815"/>
+            <TextEquiv index="1" conf="0.7132139146327973">
+              <Unicode>s</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.6965196313390302">
+            <Unicode>odiis</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46005">
+          <Coords points="244,764 289,764 289,815 244,815"/>
+          <Glyph id="w46005g0">
+            <Coords points="244,764 248,764 248,815 244,815"/>
+            <TextEquiv index="1" conf="0.9984760999679565">
+              <Unicode>d</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46005g1">
+            <Coords points="257,764 257,764 257,815 257,815"/>
+            <TextEquiv index="1" conf="0.9999002933502198">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46005g2">
+            <Coords points="271,764 271,764 271,815 271,815"/>
+            <TextEquiv index="1" conf="0.9998486042022706">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46005g3">
+            <Coords points="284,764 289,764 289,815 284,815"/>
+            <TextEquiv index="1" conf="0.9983568072319031">
+              <Unicode>è</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9965851184972374">
+            <Unicode>dirè</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46006">
+          <Coords points="316,764 500,764 500,815 316,815"/>
+          <Glyph id="w46006g0">
+            <Coords points="316,764 316,764 316,815 316,815"/>
+            <TextEquiv index="1" conf="0.999808669090271">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46006g1">
+            <Coords points="334,764 338,764 338,815 334,815"/>
+            <TextEquiv index="1" conf="0.9611108660697938">
+              <Unicode>x</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46006g2">
+            <Coords points="347,764 352,764 352,815 347,815"/>
+            <TextEquiv index="1" conf="0.7789437472820282">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46006g3">
+            <Coords points="374,764 378,764 378,815 374,815"/>
+            <TextEquiv index="1" conf="0.9996302604675292">
+              <Unicode>g</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46006g4">
+            <Coords points="392,764 392,764 392,815 392,815"/>
+            <TextEquiv index="1" conf="0.9995132088661195">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46006g5">
+            <Coords points="401,764 405,764 405,815 401,815"/>
+            <TextEquiv index="1" conf="0.9995864391326905">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46006g6">
+            <Coords points="414,764 419,764 419,815 414,815"/>
+            <TextEquiv index="1" conf="0.9989622116088868">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46006g7">
+            <Coords points="432,764 437,764 437,815 432,815"/>
+            <TextEquiv index="1" conf="0.999035668373108">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46006g8">
+            <Coords points="446,764 446,764 446,815 446,815"/>
+            <TextEquiv index="1" conf="0.9867229342460633">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46006g9">
+            <Coords points="464,764 473,764 473,815 464,815"/>
+            <TextEquiv index="1" conf="0.9985464096069336">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46006g10">
+            <Coords points="495,764 500,764 500,815 495,815"/>
+            <TextEquiv index="1" conf="0.9886593818664551">
+              <Unicode>,</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.7267499189765615">
+            <Unicode>exagitatur,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46007">
+          <Coords points="531,764 594,764 594,815 531,815"/>
+          <Glyph id="w46007g0">
+            <Coords points="531,764 531,764 531,815 531,815"/>
+            <TextEquiv index="1" conf="0.9942451953887939">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46007g1">
+            <Coords points="540,764 545,764 545,815 540,815"/>
+            <TextEquiv index="1" conf="0.998669469356537">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46007g2">
+            <Coords points="563,764 567,764 567,815 563,815"/>
+            <TextEquiv index="1" conf="0.999663519859314">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46007g3">
+            <Coords points="590,764 594,764 594,815 590,815"/>
+            <TextEquiv index="1" conf="0.8465707898139953">
+              <Unicode>-</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8402961959447327">
+            <Unicode>tan-</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9690003656571912">
+          <Unicode>bus odiis dirè exagitatur, tan-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l015">
+        <Coords points="146,864 147,863 230,863 231,862 279,862 280,861 598,861 598,859 599,858 662,858 662,843 663,842 664,842 664,835 665,834 665,833 666,832 666,814 667,813 667,812 666,811 666,807 665,806 665,804 664,803 664,799 663,798 663,796 662,794 661,795 661,796 660,797 660,798 659,799 659,813 350,813 349,814 349,816 105,816 104,817 85,817 84,818 83,818 82,819 82,828 81,829 81,832 78,832 77,833 76,833 73,836 72,836 70,838 70,839 67,842 67,843 66,844 67,845 67,850 69,851 138,851 138,852 138,864 139,864 146,864"/>
+        <Word id="w46008">
+          <Coords points="82,794 190,794 190,864 82,864"/>
+          <Glyph id="w46008g0">
+            <Coords points="82,794 87,794 87,864 82,864"/>
+            <TextEquiv index="1" conf="0.9999387621879576">
+              <Unicode>d</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46008g1">
+            <Coords points="101,794 101,794 101,864 101,864"/>
+            <TextEquiv index="1" conf="0.9009744882583618">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46008g2">
+            <Coords points="124,794 124,794 124,864 124,864"/>
+            <TextEquiv index="1" conf="0.997603452205658">
+              <Unicode>m</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46008g3">
+            <Coords points="143,794 152,794 152,864 143,864"/>
+            <TextEquiv index="1" conf="0.9934475541114808">
+              <Unicode>q</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46008g4">
+            <Coords points="162,794 166,794 166,864 162,864"/>
+            <TextEquiv index="1" conf="0.9923321962356568">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46008g5">
+            <Coords points="185,794 190,794 190,864 185,864"/>
+            <TextEquiv index="1" conf="0.997029685974121">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8833930081336759">
+            <Unicode>demque</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46009">
+          <Coords points="204,794 255,794 255,864 204,864"/>
+          <Glyph id="w46009g0">
+            <Coords points="204,794 208,794 208,864 204,864"/>
+            <TextEquiv index="1" conf="0.998997724056244">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46009g1">
+            <Coords points="218,794 218,794 218,864 218,864"/>
+            <TextEquiv index="1" conf="0.9992329597473145">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46009g2">
+            <Coords points="236,794 250,794 250,864 236,864"/>
+            <TextEquiv index="1" conf="0.9978814721107483">
+              <Unicode>ſ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46009g3">
+            <Coords points="246,794 246,794 246,864 246,864"/>
+            <TextEquiv index="1" conf="0.997257873415947">
+              <Unicode>ſ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46009g4">
+            <Coords points="255,794 255,794 255,864 255,864"/>
+            <TextEquiv index="1" conf="0.6984306843951344">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.693810700502597">
+            <Unicode>iuſſu</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46010">
+          <Coords points="283,794 367,794 367,864 283,864"/>
+          <Glyph id="w46010g0">
+            <Coords points="283,794 288,794 288,864 283,864"/>
+            <TextEquiv index="1" conf="0.9924558520317077">
+              <Unicode>p</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46010g1">
+            <Coords points="302,794 306,794 306,864 302,864"/>
+            <TextEquiv index="1" conf="0.9983756303787231">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46010g2">
+            <Coords points="320,794 325,794 325,864 320,864"/>
+            <TextEquiv index="1" conf="0.9844806790351868">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46010g3">
+            <Coords points="334,794 339,794 339,864 334,864"/>
+            <TextEquiv index="1" conf="0.9997215270996094">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46010g4">
+            <Coords points="348,794 353,794 353,864 348,864"/>
+            <TextEquiv index="1" conf="0.9998466968536377">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46010g5">
+            <Coords points="362,794 367,794 367,864 362,864"/>
+            <TextEquiv index="1" conf="0.9327283501625061">
+              <Unicode>s</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9094524625435259">
+            <Unicode>patris</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46011">
+          <Coords points="390,794 521,794 521,864 390,864"/>
+          <Glyph id="w46011g0">
+            <Coords points="390,794 390,794 390,864 390,864"/>
+            <TextEquiv index="1" conf="0.963366675376892">
+              <Unicode>æ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46011g1">
+            <Coords points="404,794 409,794 409,864 404,864"/>
+            <TextEquiv index="1" conf="0.9998911619186401">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46011g2">
+            <Coords points="418,794 423,794 423,864 418,864"/>
+            <TextEquiv index="1" conf="0.9996068596839904">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46011g3">
+            <Coords points="446,794 451,794 451,864 446,864"/>
+            <TextEquiv index="1" conf="0.9995059132575989">
+              <Unicode>m</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46011g4">
+            <Coords points="470,794 470,794 470,864 470,864"/>
+            <TextEquiv index="1" conf="0.9998772859573364">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46011g5">
+            <Coords points="488,794 493,794 493,864 488,864"/>
+            <TextEquiv index="1" conf="0.9644221067428588">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46011g6">
+            <Coords points="507,794 507,794 507,864 507,864"/>
+            <TextEquiv index="1" conf="0.9980963110923767">
+              <Unicode>ſ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46011g7">
+            <Coords points="516,794 521,794 521,864 516,864"/>
+            <TextEquiv index="1" conf="0.8824245095252992">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8173777596435954">
+            <Unicode>ærumnoſo</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46012">
+          <Coords points="540,794 591,794 591,864 540,864"/>
+          <Glyph id="w46012g0">
+            <Coords points="540,794 544,794 544,864 540,864"/>
+            <TextEquiv index="1" conf="0.9988352537155152">
+              <Unicode>c</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46012g1">
+            <Coords points="554,794 558,794 558,864 554,864"/>
+            <TextEquiv index="1" conf="0.9992785334587097">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46012g2">
+            <Coords points="577,794 582,794 582,864 577,864"/>
+            <TextEquiv index="1" conf="0.9978078365325928">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46012g3">
+            <Coords points="591,794 591,794 591,864 591,864"/>
+            <TextEquiv index="1" conf="0.9075149655342102">
+              <Unicode>-</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9038182914209446">
+            <Unicode>car-</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9741537802203587">
+          <Unicode>demque iuſſu patris ærumnoſo car-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l016">
+        <Coords points="152,914 152,913 153,912 191,912 192,911 193,911 195,909 195,908 196,907 196,906 197,905 197,904 198,903 198,902 199,901 533,901 533,902 533,908 535,909 542,909 543,908 666,908 666,903 665,902 665,870 664,869 664,866 663,865 663,860 662,858 661,858 660,859 660,860 365,860 363,862 354,862 352,864 352,865 174,865 172,867 172,868 150,868 149,869 118,869 116,871 116,880 76,880 68,888 68,890 67,891 67,893 66,894 66,896 70,899 72,899 73,900 83,900 83,901 83,906 84,906 125,906 125,907 125,911 127,912 128,912 129,913 148,913 149,914 152,914"/>
+        <Word id="w46013">
+          <Coords points="76,858 121,858 121,914 76,914"/>
+          <Glyph id="w46013g0">
+            <Coords points="76,858 81,858 81,914 76,914"/>
+            <TextEquiv index="1" conf="0.9999037623405456">
+              <Unicode>c</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46013g1">
+            <Coords points="94,858 94,858 94,914 94,914"/>
+            <TextEquiv index="1" conf="0.9999799489974976">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46013g2">
+            <Coords points="103,858 108,858 108,914 103,914"/>
+            <TextEquiv index="1" conf="0.9999863624572753">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46013g3">
+            <Coords points="121,858 121,858 121,914 121,914"/>
+            <TextEquiv index="1" conf="0.9996680140495301">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.999538134492883">
+            <Unicode>ceri</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46014">
+          <Coords points="144,858 175,858 175,914 144,914"/>
+          <Glyph id="w46014g0">
+            <Coords points="144,858 144,858 144,914 144,914"/>
+            <TextEquiv index="1" conf="0.9979506492614747">
+              <Unicode>ſ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46014g1">
+            <Coords points="153,858 157,858 157,914 153,914"/>
+            <TextEquiv index="1" conf="0.9444254636764527">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46014g2">
+            <Coords points="175,858 175,858 175,914 175,914"/>
+            <TextEquiv index="1" conf="0.9996153712272644">
+              <Unicode>b</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9421274958811793">
+            <Unicode>ſub</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46015">
+          <Coords points="202,858 260,858 260,914 202,914"/>
+          <Glyph id="w46015g0">
+            <Coords points="202,858 202,858 202,914 202,914"/>
+            <TextEquiv index="1" conf="0.9479004263877868">
+              <Unicode>f</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46015g1">
+            <Coords points="215,858 220,858 220,914 215,914"/>
+            <TextEquiv index="1" conf="0.9990973830223083">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46015g2">
+            <Coords points="229,858 233,858 233,914 229,914"/>
+            <TextEquiv index="1" conf="0.9994750499725342">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46015g3">
+            <Coords points="242,858 247,858 247,914 242,914"/>
+            <TextEquiv index="1" conf="0.9993558883666992">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46015g4">
+            <Coords points="260,858 260,858 260,914 260,914"/>
+            <TextEquiv index="1" conf="0.9992067813873291">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9451876661531429">
+            <Unicode>ferro</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46016">
+          <Coords points="287,858 319,858 319,914 287,914"/>
+          <Glyph id="w46016g0">
+            <Coords points="287,858 319,858 319,914 287,914"/>
+            <TextEquiv index="1" conf="0.9745431393384933">
+              <Unicode>&amp;</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9745431393384933">
+            <Unicode>&amp;</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46017">
+          <Coords points="337,858 417,858 417,914 337,914"/>
+          <Glyph id="w46017g0">
+            <Coords points="337,858 341,858 341,914 337,914"/>
+            <TextEquiv index="1" conf="0.9996535181999207">
+              <Unicode>c</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46017g1">
+            <Coords points="350,858 355,858 355,914 350,914"/>
+            <TextEquiv index="1" conf="0.9985119700431824">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46017g2">
+            <Coords points="364,858 368,858 368,914 364,914"/>
+            <TextEquiv index="1" conf="0.9992924928665161">
+              <Unicode>l</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46017g3">
+            <Coords points="377,858 377,858 377,914 377,914"/>
+            <TextEquiv index="1" conf="0.9998462438583374">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46017g4">
+            <Coords points="390,858 395,858 395,914 390,914"/>
+            <TextEquiv index="1" conf="0.9999835014343262">
+              <Unicode>c</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46017g5">
+            <Coords points="404,858 404,858 404,914 404,914"/>
+            <TextEquiv index="1" conf="0.9999112725257874">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46017g6">
+            <Coords points="417,858 417,858 417,914 417,914"/>
+            <TextEquiv index="1" conf="0.9990284442901611">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9962326507356863">
+            <Unicode>cilicio</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46018">
+          <Coords points="453,858 592,858 592,914 453,914"/>
+          <Glyph id="w46018g0">
+            <Coords points="453,858 453,858 453,914 453,914"/>
+            <TextEquiv index="1" conf="0.9998871326446533">
+              <Unicode>m</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46018g1">
+            <Coords points="471,858 476,858 476,914 471,914"/>
+            <TextEquiv index="1" conf="0.999774730205536">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46018g2">
+            <Coords points="494,858 498,858 498,914 494,914"/>
+            <TextEquiv index="1" conf="0.9999039888381958">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46018g3">
+            <Coords points="516,858 521,858 521,914 516,914"/>
+            <TextEquiv index="1" conf="0.99820556640625">
+              <Unicode>c</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46018g4">
+            <Coords points="530,858 534,858 534,914 530,914"/>
+            <TextEquiv index="1" conf="0.9950644850730896">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46018g5">
+            <Coords points="543,858 543,858 543,914 543,914"/>
+            <TextEquiv index="1" conf="0.9998299717903137">
+              <Unicode>p</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46018g6">
+            <Coords points="561,858 565,858 565,914 561,914"/>
+            <TextEquiv index="1" conf="0.9751146912574769">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46018g7">
+            <Coords points="588,858 592,858 592,914 588,914"/>
+            <TextEquiv index="1" conf="0.9947983384132384">
+              <Unicode>-</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9629407189252525">
+            <Unicode>mancipa-</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9942984189951057">
+          <Unicode>ceri ſub ferro &amp; cilicio mancipa-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l017">
+        <Coords points="434,958 434,955 435,954 662,954 662,941 663,940 663,931 664,930 664,929 665,928 665,919 666,918 666,909 666,908 410,908 409,908 409,907 409,906 404,906 402,908 402,912 292,912 290,914 149,914 148,915 148,924 75,924 71,928 69,928 67,930 67,941 66,942 66,943 67,944 67,946 68,946 114,946 114,947 114,953 115,953 432,953 432,954 432,958 433,958 434,958"/>
+        <Word id="w46019">
+          <Coords points="73,906 121,906 121,958 73,958"/>
+          <Glyph id="w46019g0">
+            <Coords points="73,906 77,906 77,958 73,958"/>
+            <TextEquiv index="1" conf="0.9969118237495421">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46019g1">
+            <Coords points="85,906 89,906 89,958 85,958"/>
+            <TextEquiv index="1" conf="0.9943620800971985">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46019g2">
+            <Coords points="109,906 109,906 109,958 109,958"/>
+            <TextEquiv index="1" conf="0.9996936321258545">
+              <Unicode>s</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46019g3">
+            <Coords points="117,906 121,906 121,958 117,958"/>
+            <TextEquiv index="1" conf="0.988400936126709">
+              <Unicode>,</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9794930862811839">
+            <Unicode>tus,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46020">
+          <Coords points="137,906 181,906 181,958 137,958"/>
+          <Glyph id="w46020g0">
+            <Coords points="137,906 137,906 137,958 137,958"/>
+            <TextEquiv index="1" conf="0.9271108359098434">
+              <Unicode>c</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46020g1">
+            <Coords points="149,906 149,906 149,958 149,958"/>
+            <TextEquiv index="1" conf="0.8638512313365936">
+              <Unicode>ù</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46020g2">
+            <Coords points="177,906 181,906 181,958 177,958"/>
+            <TextEquiv index="1" conf="0.9994803547859192">
+              <Unicode>m</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.800469660693898">
+            <Unicode>cùm</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46021">
+          <Coords points="229,906 376,906 376,958 229,958"/>
+          <Glyph id="w46021g0">
+            <Coords points="229,906 233,906 233,958 229,958"/>
+            <TextEquiv index="1" conf="0.9948127120733261">
+              <Unicode>A</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46021g1">
+            <Coords points="261,906 264,906 264,958 261,958"/>
+            <TextEquiv index="1" conf="0.9989659667015076">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46021g2">
+            <Coords points="272,906 276,906 276,958 272,958"/>
+            <TextEquiv index="1" conf="0.9999123096466065">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46021g3">
+            <Coords points="288,906 292,906 292,958 288,958"/>
+            <TextEquiv index="1" conf="0.9951773881912231">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46021g4">
+            <Coords points="300,906 304,906 304,958 300,958"/>
+            <TextEquiv index="1" conf="0.9998615503311157">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46021g5">
+            <Coords points="320,906 324,906 324,958 320,958"/>
+            <TextEquiv index="1" conf="0.9987569808959961">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46021g6">
+            <Coords points="340,906 344,906 344,958 340,958"/>
+            <TextEquiv index="1" conf="0.9998454093933106">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46021g7">
+            <Coords points="372,906 376,906 376,958 372,958"/>
+            <TextEquiv index="1" conf="0.9999808073043823">
+              <Unicode>m</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9873670973767449">
+            <Unicode>Arrianam</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46022">
+          <Coords points="400,906 503,906 503,958 400,958"/>
+          <Glyph id="w46022g0">
+            <Coords points="400,906 404,906 404,958 400,958"/>
+            <TextEquiv index="1" conf="0.9994487881660461">
+              <Unicode>h</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46022g1">
+            <Coords points="432,906 432,906 432,958 432,958"/>
+            <TextEquiv index="1" conf="0.9989117980003357">
+              <Unicode>æ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46022g2">
+            <Coords points="444,906 448,906 448,958 444,958"/>
+            <TextEquiv index="1" conf="0.9997279524803162">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46022g3">
+            <Coords points="460,906 460,906 460,958 460,958"/>
+            <TextEquiv index="1" conf="0.999951684474945">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46022g4">
+            <Coords points="472,906 472,906 472,958 472,958"/>
+            <TextEquiv index="1" conf="0.9967288494110107">
+              <Unicode>ſ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46022g5">
+            <Coords points="479,906 483,906 483,958 479,958"/>
+            <TextEquiv index="1" conf="0.9659589409828185">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46022g6">
+            <Coords points="499,906 503,906 503,958 499,958"/>
+            <TextEquiv index="1" conf="0.9947071194648742">
+              <Unicode>m</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9558273682967716">
+            <Unicode>hæreſim</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46023">
+          <Coords points="535,906 591,906 591,958 535,958"/>
+          <Glyph id="w46023g0">
+            <Coords points="535,906 539,906 539,958 535,958"/>
+            <TextEquiv index="1" conf="0.9998780846595765">
+              <Unicode>c</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46023g1">
+            <Coords points="547,906 551,906 551,958 547,958"/>
+            <TextEquiv index="1" conf="0.9994872450828551">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46023g2">
+            <Coords points="563,906 567,906 567,958 563,958"/>
+            <TextEquiv index="1" conf="0.9997863054275513">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46023g3">
+            <Coords points="587,906 591,906 591,958 587,958"/>
+            <TextEquiv index="1" conf="0.9928355932235717">
+              <Unicode>-</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9919935031297651">
+            <Unicode>con-</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9894715706507363">
+          <Unicode>tus, cùm Arrianam hæreſim con-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l018">
+        <Coords points="294,1008 295,1007 297,1007 298,1006 516,1006 517,1005 545,1005 546,1004 548,1004 549,1003 549,1002 550,1001 550,1000 551,999 664,999 664,998 664,997 552,997 551,997 551,996 552,995 552,994 553,993 592,993 593,992 594,992 595,991 662,991 663,990 663,962 662,961 662,958 662,957 661,958 661,959 436,959 435,958 432,958 431,959 431,961 156,961 155,960 84,960 83,961 81,961 78,964 77,964 76,965 76,966 75,966 74,967 74,968 73,969 73,972 71,974 71,975 70,976 70,981 69,982 69,987 68,988 68,996 67,997 67,999 66,1000 66,1001 59,1001 57,1003 57,1004 60,1006 148,1006 149,1007 275,1007 276,1008 294,1008"/>
+        <Word id="w46024">
+          <Coords points="74,957 234,957 234,1008 74,1008"/>
+          <Glyph id="w46024g0">
+            <Coords points="74,957 79,957 79,1008 74,1008"/>
+            <TextEquiv index="1" conf="0.9824702620506287">
+              <Unicode>ſ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46024g1">
+            <Coords points="89,957 89,957 89,1008 89,1008"/>
+            <TextEquiv index="1" conf="0.9998528480529786">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46024g2">
+            <Coords points="98,957 103,957 103,1008 98,1008"/>
+            <TextEquiv index="1" conf="0.9996765971183778">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46024g3">
+            <Coords points="118,957 123,957 123,1008 118,1008"/>
+            <TextEquiv index="1" conf="0.9997002243995665">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46024g4">
+            <Coords points="142,957 142,957 142,1008 142,1008"/>
+            <TextEquiv index="1" conf="0.9999493837356568">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46024g5">
+            <Coords points="151,957 156,957 156,1008 151,1008"/>
+            <TextEquiv index="1" conf="0.999252712726593">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46024g6">
+            <Coords points="166,957 166,957 166,1008 166,1008"/>
+            <TextEquiv index="1" conf="0.8847336024045944">
+              <Unicode>ſ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46024g7">
+            <Coords points="176,957 176,957 176,1008 176,1008"/>
+            <TextEquiv index="1" conf="0.8796184539794922">
+              <Unicode>ß</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46024g8">
+            <Coords points="190,957 190,957 190,1008 190,1008"/>
+            <TextEquiv index="1" conf="0.9997724413871767">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46024g9">
+            <Coords points="209,957 214,957 214,1008 209,1008"/>
+            <TextEquiv index="1" conf="0.9962283253669739">
+              <Unicode>m</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46024g10">
+            <Coords points="234,957 234,957 234,1008 234,1008"/>
+            <TextEquiv index="1" conf="0.899958038330078">
+              <Unicode>è</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.6842697342678737">
+            <Unicode>ſtantiſßimè</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46025">
+          <Coords points="262,957 402,957 402,1008 262,1008"/>
+          <Glyph id="w46025g0">
+            <Coords points="262,957 267,957 267,1008 262,1008"/>
+            <TextEquiv index="1" conf="0.999828600883484">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46025g1">
+            <Coords points="277,957 282,957 282,1008 277,1008"/>
+            <TextEquiv index="1" conf="0.9995811462402343">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46025g2">
+            <Coords points="291,957 291,957 291,1008 291,1008"/>
+            <TextEquiv index="1" conf="0.9953346729278565">
+              <Unicode>ſ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46025g3">
+            <Coords points="301,957 301,957 301,1008 301,1008"/>
+            <TextEquiv index="1" conf="0.978977859020233">
+              <Unicode>p</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46025g4">
+            <Coords points="316,957 320,957 320,1008 316,1008"/>
+            <TextEquiv index="1" conf="0.9992774486541749">
+              <Unicode>u</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46025g5">
+            <Coords points="340,957 340,957 340,1008 340,1008"/>
+            <TextEquiv index="1" conf="0.9999439477920532">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46025g6">
+            <Coords points="354,957 354,957 354,1008 354,1008"/>
+            <TextEquiv index="1" conf="0.999957275390625">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46025g7">
+            <Coords points="369,957 369,957 369,1008 369,1008"/>
+            <TextEquiv index="1" conf="0.9999610424041748">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46025g8">
+            <Coords points="383,957 383,957 383,1008 383,1008"/>
+            <TextEquiv index="1" conf="0.9917147636413575">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46025g9">
+            <Coords points="402,957 402,957 402,1008 402,1008"/>
+            <TextEquiv index="1" conf="0.9995321393013">
+              <Unicode>,</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.964484881566328">
+            <Unicode>reſpueret,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46026">
+          <Coords points="431,957 595,957 595,1008 431,1008"/>
+          <Glyph id="w46026g0">
+            <Coords points="431,957 431,957 431,1008 431,1008"/>
+            <TextEquiv index="1" conf="0.9986678123474121">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46026g1">
+            <Coords points="446,957 446,957 446,1008 446,1008"/>
+            <TextEquiv index="1" conf="0.9989731550216675">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46026g2">
+            <Coords points="465,957 465,957 465,1008 465,1008"/>
+            <TextEquiv index="1" conf="0.9997230172157286">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46026g3">
+            <Coords points="480,957 480,957 480,1008 480,1008"/>
+            <TextEquiv index="1" conf="0.9998671293258666">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46026g4">
+            <Coords points="499,957 504,957 504,1008 499,1008"/>
+            <TextEquiv index="1" conf="0.9994595766067504">
+              <Unicode>m</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46026g5">
+            <Coords points="518,957 523,957 523,1008 518,1008"/>
+            <TextEquiv index="1" conf="0.9994103908538818">
+              <Unicode>p</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46026g6">
+            <Coords points="542,957 542,957 542,1008 542,1008"/>
+            <TextEquiv index="1" conf="0.9999320864677429">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46026g7">
+            <Coords points="557,957 557,957 557,1008 557,1008"/>
+            <TextEquiv index="1" conf="0.9971178889274599">
+              <Unicode>ſ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46026g8">
+            <Coords points="567,957 571,957 571,1008 567,1008"/>
+            <TextEquiv index="1" conf="0.9996758341789246">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46026g9">
+            <Coords points="595,957 595,957 595,1008 595,1008"/>
+            <TextEquiv index="1" conf="0.9916355848312379">
+              <Unicode>æ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.984542019001312">
+            <Unicode>intempeſtæ</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9875412080324059">
+          <Unicode>ſtantiſßimè reſpueret, intempeſtæ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l019">
+        <Coords points="309,1062 309,1059 310,1058 516,1058 516,1057 517,1056 597,1056 597,1055 596,1054 596,1051 597,1050 667,1050 667,1035 666,1034 666,1033 666,1032 597,1032 596,1032 596,1008 596,1007 595,1007 594,1006 494,1006 493,1005 491,1005 490,1004 489,1004 487,1006 124,1006 122,1008 120,1008 119,1009 117,1009 116,1010 110,1010 107,1013 107,1015 106,1016 106,1019 72,1019 71,1020 70,1020 69,1021 68,1021 66,1023 66,1024 65,1025 65,1035 64,1036 64,1042 63,1043 63,1044 64,1045 64,1052 66,1053 68,1053 69,1054 157,1054 157,1055 157,1056 158,1056 215,1056 215,1057 215,1060 216,1060 306,1060 306,1061 306,1062 307,1062 309,1062"/>
+        <Word id="w46027">
+          <Coords points="78,1004 155,1004 155,1062 78,1062"/>
+          <Glyph id="w46027g0">
+            <Coords points="78,1004 78,1004 78,1062 78,1062"/>
+            <TextEquiv index="1" conf="0.996912932395935">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46027g1">
+            <Coords points="98,1004 98,1004 98,1062 98,1062"/>
+            <TextEquiv index="1" conf="0.8695292234420775">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46027g2">
+            <Coords points="114,1004 114,1004 114,1062 114,1062"/>
+            <TextEquiv index="1" conf="0.917399525642395">
+              <Unicode>c</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46027g3">
+            <Coords points="124,1004 129,1004 129,1062 124,1062"/>
+            <TextEquiv index="1" conf="0.9998295307159424">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46027g4">
+            <Coords points="140,1004 140,1004 140,1062 140,1062"/>
+            <TextEquiv index="1" conf="0.9997248530387878">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46027g5">
+            <Coords points="155,1004 155,1004 155,1062 155,1062"/>
+            <TextEquiv index="1" conf="0.972943913936615">
+              <Unicode>s</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.7733822102410053">
+            <Unicode>noctis</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46028">
+          <Coords points="171,1004 290,1004 290,1062 171,1062"/>
+          <Glyph id="w46028g0">
+            <Coords points="171,1004 181,1004 181,1062 171,1062"/>
+            <TextEquiv index="1" conf="0.9864711999893189">
+              <Unicode>ſ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46028g1">
+            <Coords points="181,1004 186,1004 186,1062 181,1062"/>
+            <TextEquiv index="1" conf="0.8963203907012939">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46028g2">
+            <Coords points="196,1004 196,1004 196,1062 196,1062"/>
+            <TextEquiv index="1" conf="0.9809722751379013">
+              <Unicode>l</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46028g3">
+            <Coords points="207,1004 207,1004 207,1062 207,1062"/>
+            <TextEquiv index="1" conf="0.9480397552251816">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46028g4">
+            <Coords points="217,1004 222,1004 222,1062 217,1062"/>
+            <TextEquiv index="1" conf="0.995909857749939">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46028g5">
+            <Coords points="243,1004 243,1004 243,1062 243,1062"/>
+            <TextEquiv index="1" conf="0.9998048305511473">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46028g6">
+            <Coords points="253,1004 259,1004 259,1062 253,1062"/>
+            <TextEquiv index="1" conf="0.9976914048194886">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46028g7">
+            <Coords points="269,1004 269,1004 269,1062 269,1062"/>
+            <TextEquiv index="1" conf="0.9517315745353698">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46028g8">
+            <Coords points="284,1004 290,1004 290,1062 284,1062"/>
+            <TextEquiv index="1" conf="0.9959416627883911">
+              <Unicode>,</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.7743028189957669">
+            <Unicode>ſilentio,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46029">
+          <Coords points="321,1004 357,1004 357,1062 321,1062"/>
+          <Glyph id="w46029g0">
+            <Coords points="321,1004 321,1004 321,1062 321,1062"/>
+            <TextEquiv index="1" conf="0.9954887509346008">
+              <Unicode>p</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46029g1">
+            <Coords points="341,1004 341,1004 341,1062 341,1062"/>
+            <TextEquiv index="1" conf="0.9996225953102111">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46029g2">
+            <Coords points="357,1004 357,1004 357,1062 357,1062"/>
+            <TextEquiv index="1" conf="0.8402040004730225">
+              <Unicode>o</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8360979645342158">
+            <Unicode>pro</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46030">
+          <Coords points="377,1004 507,1004 507,1062 377,1062"/>
+          <Glyph id="w46030g0">
+            <Coords points="377,1004 377,1004 377,1062 377,1062"/>
+            <TextEquiv index="1" conf="0.9998725891113283">
+              <Unicode>r</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46030g1">
+            <Coords points="393,1004 393,1004 393,1062 393,1062"/>
+            <TextEquiv index="1" conf="0.9947112083435059">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46030g2">
+            <Coords points="403,1004 403,1004 403,1062 403,1062"/>
+            <TextEquiv index="1" conf="0.9946276664733887">
+              <Unicode>t</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46030g3">
+            <Coords points="419,1004 419,1004 419,1062 419,1062"/>
+            <TextEquiv index="1" conf="0.9998935461044312">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46030g4">
+            <Coords points="429,1004 434,1004 434,1062 429,1062"/>
+            <TextEquiv index="1" conf="0.9997879385948182">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46030g5">
+            <Coords points="450,1004 455,1004 455,1062 450,1062"/>
+            <TextEquiv index="1" conf="0.9978208184242248">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46030g6">
+            <Coords points="460,1004 465,1004 465,1062 460,1062"/>
+            <TextEquiv index="1" conf="0.9988849401473999">
+              <Unicode>n</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46030g7">
+            <Coords points="491,1004 496,1004 496,1062 491,1062"/>
+            <TextEquiv index="1" conf="0.9994489431381226">
+              <Unicode>d</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46030g8">
+            <Coords points="502,1004 507,1004 507,1062 502,1062"/>
+            <TextEquiv index="1" conf="0.9415586233139038">
+              <Unicode>a</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.9275554305993952">
+            <Unicode>retinenda</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46031">
+          <Coords points="538,1004 600,1004 600,1062 538,1062"/>
+          <Glyph id="w46031g0">
+            <Coords points="538,1004 538,1004 538,1062 538,1062"/>
+            <TextEquiv index="1" conf="0.8482899427413941">
+              <Unicode>f</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46031g1">
+            <Coords points="543,1004 548,1004 548,1062 543,1062"/>
+            <TextEquiv index="1" conf="0.8581062108278275">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46031g2">
+            <Coords points="564,1004 569,1004 569,1062 564,1062"/>
+            <TextEquiv index="1" conf="0.9998117327690124">
+              <Unicode>d</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46031g3">
+            <Coords points="579,1004 584,1004 584,1062 579,1062"/>
+            <TextEquiv index="1" conf="0.9994471907615662">
+              <Unicode>e</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w46031g4">
+            <Coords points="595,1004 600,1004 600,1062 595,1062"/>
+            <TextEquiv index="1" conf="0.9504249095916748">
+              <Unicode>i</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.6913233950390604">
+            <Unicode>fidei</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9678474263184599">
+          <Unicode>noctis ſilentio, pro retinenda fidei</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

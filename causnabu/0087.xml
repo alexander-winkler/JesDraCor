@@ -1,0 +1,210 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>OCR4all</Creator>
+    <Created>2022-01-21T22:12:53</Created>
+    <LastChange>2022-01-21T22:12:53</LastChange>
+  </Metadata>
+  <Page imageFilename="0087.png" imageHeight="1226" imageWidth="672">
+    <TextRegion id="r0" type="paragraph">
+      <Coords points="1,1 670,1 670,1224 1,1224"/>
+      <TextLine id="r0_l001">
+        <Coords points="14,431 658,431 658,293 14,293 14,431"/>
+        <Word id="w11884">
+          <Coords points="103,293 585,293 585,431 103,431"/>
+          <Glyph id="w11884g0">
+            <Coords points="103,293 150,293 150,431 103,431"/>
+            <TextEquiv index="1" conf="0.9527335613965988">
+              <Unicode>N</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11884g1">
+            <Coords points="185,293 197,293 197,431 185,431"/>
+            <TextEquiv index="1" conf="0.9995849251747131">
+              <Unicode>A</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11884g2">
+            <Coords points="268,293 279,293 279,431 268,431"/>
+            <TextEquiv index="1" conf="0.8603642106056214">
+              <Unicode>B</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11884g3">
+            <Coords points="338,293 350,293 350,431 338,431"/>
+            <TextEquiv index="1" conf="0.8906148791313171">
+              <Unicode>V</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11884g4">
+            <Coords points="409,293 420,293 420,431 409,431"/>
+            <TextEquiv index="1" conf="0.9753761172294616">
+              <Unicode>C</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11884g5">
+            <Coords points="456,293 491,293 491,431 456,431"/>
+            <TextEquiv index="1" conf="0.7625720892101526">
+              <Unicode>H</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11884g6">
+            <Coords points="538,293 561,293 561,431 538,431"/>
+            <TextEquiv index="1" conf="0.9822391867637634">
+              <Unicode>O</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11884g7">
+            <Coords points="585,293 585,293 585,431 585,431"/>
+            <TextEquiv index="1" conf="0.44704264402389526">
+              <Unicode>.</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.23833217555341932">
+            <Unicode>NABVCHO.</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.8588159516919404">
+          <Unicode>NABVCHO.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l002">
+        <Coords points="15,514 490,514 490,431 15,431 15,514"/>
+        <Word id="w11885">
+          <Coords points="169,431 495,431 495,514 169,514"/>
+          <Glyph id="w11885g0">
+            <Coords points="169,431 182,431 182,514 169,514"/>
+            <TextEquiv index="1" conf="0.9442126750946045">
+              <Unicode>D</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11885g1">
+            <Coords points="230,431 237,431 237,514 230,514"/>
+            <TextEquiv index="1" conf="0.9650867104530334">
+              <Unicode>O</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11885g2">
+            <Coords points="271,431 291,431 291,514 271,514"/>
+            <TextEquiv index="1" conf="0.9987931251525879">
+              <Unicode>N</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11885g3">
+            <Coords points="332,431 339,431 339,514 332,514"/>
+            <TextEquiv index="1" conf="0.9959663987159729">
+              <Unicode>O</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11885g4">
+            <Coords points="379,431 379,431 379,514 379,514"/>
+            <TextEquiv index="1" conf="0.9989245414733887">
+              <Unicode>S</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11885g5">
+            <Coords points="427,431 434,431 434,514 427,514"/>
+            <TextEquiv index="1" conf="0.9897223114967346">
+              <Unicode>O</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11885g6">
+            <Coords points="461,431 481,431 481,514 461,514"/>
+            <TextEquiv index="1" conf="0.990775501728058">
+              <Unicode>R</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11885g7">
+            <Coords points="495,431 495,431 495,514 495,514"/>
+            <TextEquiv index="1" conf="0.9741671681404114">
+              <Unicode>.</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8649901946098224">
+            <Unicode>DONOSOR.</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9822060540318489">
+          <Unicode>DONOSOR.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l003">
+        <Coords points="15,632 666,632 666,514 15,514 15,632"/>
+        <Word id="w11886">
+          <Coords points="144,514 527,514 527,632 144,632"/>
+          <Glyph id="w11886g0">
+            <Coords points="144,514 144,514 144,632 144,632"/>
+            <TextEquiv index="1" conf="0.8503057360649109">
+              <Unicode>T</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11886g1">
+            <Coords points="182,514 198,514 198,632 182,632"/>
+            <TextEquiv index="1" conf="0.9849933385848999">
+              <Unicode>R</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11886g2">
+            <Coords points="228,514 236,514 236,632 228,632"/>
+            <TextEquiv index="1" conf="0.998884069919586">
+              <Unicode>A</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11886g3">
+            <Coords points="297,514 297,514 297,632 297,632"/>
+            <TextEquiv index="1" conf="0.9695316851139069">
+              <Unicode>G</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11886g4">
+            <Coords points="343,514 351,514 351,632 343,632"/>
+            <TextEquiv index="1" conf="0.9782468676567078">
+              <Unicode>O</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11886g5">
+            <Coords points="374,514 382,514 382,632 374,632"/>
+            <TextEquiv index="1" conf="0.9229128599166871">
+              <Unicode>E</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11886g6">
+            <Coords points="420,514 428,514 428,632 420,632"/>
+            <TextEquiv index="1" conf="0.9965723276138305">
+              <Unicode>D</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11886g7">
+            <Coords points="466,514 466,514 466,632 466,632"/>
+            <TextEquiv index="1" conf="0.936176061630249">
+              <Unicode>I</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11886g8">
+            <Coords points="497,514 504,514 504,632 497,632"/>
+            <TextEquiv index="1" conf="0.9918529152870177">
+              <Unicode>A</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w11886g9">
+            <Coords points="527,514 527,514 527,632 527,632"/>
+            <TextEquiv index="1" conf="0.8998522639274597">
+              <Unicode>.</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.6097888835247264">
+            <Unicode>TRAGOEDIA.</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.9529328125715256">
+          <Unicode>TRAGOEDIA.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l004">
+        <Coords points="215,1224 215,918 7,918 7,1224 215,1224"/>
+        <TextEquiv index="1" conf="0.0">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
