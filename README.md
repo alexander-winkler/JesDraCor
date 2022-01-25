@@ -97,11 +97,11 @@ We intend to make available documentation and/or tutorials on how to produce, us
 | [Charles Porée](https://www.wikidata.org/wiki/Q2960049) | Misoponus, sive Otiosus. Drama Comicum | [ed. 1755](https://digital.slub-dresden.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=oai:de:slub-dresden:db:id-325537976) | [poremiso](poremiso) | PageXML |
 | [Charles Porée](https://www.wikidata.org/wiki/Q2960049) | Liberi in deligendo vitae instituto coacti, Fabula | [ed. 1755](https://digital.slub-dresden.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=oai:de:slub-dresden:db:id-325537976) | [porelibe](porelibe) | PageXML |
 | [Charles Porée](https://www.wikidata.org/wiki/Q2960049) | Philedonus sive Juvenis Voluptarius a liberiore vita revocatus | [ed. 1755](https://digital.slub-dresden.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=oai:de:slub-dresden:db:id-325537976) | [porephil](porephil) | PageXML |
-| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Solyma. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | | PageXML |
-| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Nabuchodonosor. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | | PageXML |
-| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Felicitas. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | | PageXML |
-| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Theodoricus. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | | PageXML |
-| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Hermenigildus. Actio oratoria. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | | PageXML |
+| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Solyma. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [caussoly](caussoly) | PageXML |
+| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Nabuchodonosor. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [causnabu](causnabu) | PageXML |
+| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Felicitas. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [causfeli](causfeli) | PageXML |
+| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Theodoricus. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [caustheo](caustheo) | PageXML |
+| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Hermenigildus. Actio oratoria. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [causherm](causherm) | PageXML |
 
 ## Possible further developments 
 
