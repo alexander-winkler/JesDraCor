@@ -70,7 +70,7 @@ We intend to make available documentation and/or tutorials on how to produce, us
 | [Jakob Pontanus](https://www.wikidata.org/wiki/Q3157628) | Immolatio Isaac | [Camena](http://mateo.uni-mannheim.de/camena/pont2/books/pontanusinstitutiones_9.xml) | | TEI-XML |
 | [Jakob Pontanus](https://www.wikidata.org/wiki/Q3157628) | Stratocles, sive Bellum | [Camena](http://mateo.uni-mannheim.de/camena/pont2/books/pontanusinstitutiones_10.xml) | | TEI-XML |
 | [Jakob Gretser](https://www.wikidata.org/wiki/Q97263) | Udo | [ed. Rädle 1979](https://doi.org/10.1515/9783110831535) | [gretudon](gretudon) | pdf/txt |
-| Anonymus | Theophilus | [ed. Rädle 1979](https://doi.org/10.1515/9783110831535) |  | pdf/txt |
+| Anonymus | Theophilus | [ed. Rädle 1979](https://doi.org/10.1515/9783110831535) | [anontheo](anontheo) | pdf/txt |
 | [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Nascens | ed. Saulini 2011 (?) | | |
 | [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Patiens | ed. Saulini 2011 (?) | | |
 | [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Iudex | ed. Saulini 2011 (?) | | |
