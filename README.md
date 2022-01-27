@@ -24,7 +24,7 @@ We intend to make available documentation and/or tutorials on how to produce, us
 | Author | Title | Source | Folder | Status |
 | --- | --- | --- | --- | --- | 
 | [Jeremias Drexel](https://www.wikidata.org/wiki/Q67095) | Iulianus Apostata Tragoedia | [ed. Abele 2018](https://doi.org/10.1515/9783110593730) | [drexiul](drexiuli) | txt | 
-| [Francesco Benci](https://www.wikidata.org/wiki/Q30014571) | Ergastus | [VD16 B 1675](http://gateway-bayern.de/VD16+B+1675) | [bencerga](bencerga) | [scan](shttp://resolver.staatsbibliothek-berlin.de/SBB0002080D00000000) / PageXML | [bencphil](bencphil)
+| [Francesco Benci](https://www.wikidata.org/wiki/Q30014571) | Ergastus | [VD16 B 1675](http://gateway-bayern.de/VD16+B+1675) | [bencerga](bencerga) | [scan](http://resolver.staatsbibliothek-berlin.de/SBB0002080D00000000) / PageXML | [bencphil](bencphil)
 | [Francesco Benci](https://www.wikidata.org/wiki/Q30014571) | Philotimus | [VD16 B 1675](http://gateway-bayern.de/VD16+B+1675) | [bencphil](bencphil) | [scan](http://resolver.staatsbibliothek-berlin.de/SBB0002080D00000000) / PageXML |
 | [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Sosa naufragus | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_1.xml) | | TEI-XML |
 | [Nicolaus von Avancini](https://www.wikidata.org/wiki/Q3340050) | Pomum Theodosii  | [Camena](http://mateo.uni-mannheim.de/camena/avan2/books/avancinidramatica1_2.xml) | | TEI-XML |
@@ -103,7 +103,7 @@ We intend to make available documentation and/or tutorials on how to produce, us
 | [Joseph Simons](https://www.wikidata.org/wiki/Q3810270#sitelinks-wikipedia) | Mercia, sive Pietas Coronata | [ed. Sutton 2013](http://www.philological.bham.ac.uk/mercia/), possibly protected by neighbouring rights | | html |
 | [Joseph Simons](https://www.wikidata.org/wiki/Q3810270#sitelinks-wikipedia) | Vitus | [ed. Sutton 2013](http://www.philological.bham.ac.uk/vitus/) | | html |
 | [Ubertino Carrara](https://www.wikidata.org/wiki/Q47307825#sitelinks-wikipedia) | Samson vindicatus dramma sacrum | [archive](https://archive.org/details/bub_gb_9_C4LRRBWEAC) | | |
-| [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Martius Pueritiae Dilinganae Animus | Exercitationes Theatrales [Ex. Theat. I](http://data.onb.ac.at/rep/1056D0FA) | [clauanim](clauanim) | PageXML |
+| [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Martius Pueritiae Dilinganae Animus | [Ex. Theat. I](http://data.onb.ac.at/rep/1056D0FA) | [clauanim](clauanim) | PageXML |
 | [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Vulpanser | [Ex. Theat. I](http://data.onb.ac.at/rep/1056D0FA) | [clauvulp](clauvulp) | PageXML |
 | [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Locustae | [Ex. Theat. I](http://data.onb.ac.at/rep/1056D0FA) | [claulocu](claulocu) | PageXML |
 | [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Passeres | [Ex. Theat. I](http://data.onb.ac.at/rep/1056D0FA) | [claupass](claupass) | PageXML |
