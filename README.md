@@ -96,9 +96,25 @@ We intend to make available documentation and/or tutorials on how to produce, us
 | [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Solyma. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [caussoly](caussoly) | PageXML |
 | [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Nabuchodonosor. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [causnabu](causnabu) | PageXML |
 | [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Felicitas. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [causfeli](causfeli) | PageXML |
-| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Theodoricus. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [caustheo](caustheo) | PageXML |
+| [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Theodoricus. Tragoedia. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [caustheo](caustheo) | PageXML |q
 | [Nicolas Caussin](https://www.wikidata.org/wiki/Q3340181) | Hermenigildus. Actio oratoria. | [ed. Paris 1620, bsb10608837](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608837-2) | [causherm](causherm) | PageXML |
 | | De Godefrido Bullonio Duce | ed. Reinhardstöttner 1897 | | pdf |
+| [Karel Kolčava](https://d-nb.info/gnd/122985737) | Tyrannis triumpans et triumphata, seu Anglia | [ed. Riley 2020](http://www.philological.bham.ac.uk/tyrannis/) |  | html | 
+| [Joseph Simons](https://www.wikidata.org/wiki/Q3810270#sitelinks-wikipedia) | Mercia, sive Pietas Coronata | [ed. Sutton 2013](http://www.philological.bham.ac.uk/mercia/), possibly protected by neighbouring rights | | html |
+| [Joseph Simons](https://www.wikidata.org/wiki/Q3810270#sitelinks-wikipedia) | Vitus | [ed. Sutton 2013](http://www.philological.bham.ac.uk/vitus/) | | html |
+| [Ubertino Carrara](https://www.wikidata.org/wiki/Q47307825#sitelinks-wikipedia) | Samson vindicatus dramma sacrum | [archive](https://archive.org/details/bub_gb_9_C4LRRBWEAC) | | |
+| [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Martius Pueritiae Dilinganae Animus | Exercitationes Theatrales [Ex. Theat. I](http://data.onb.ac.at/rep/1056D0FA) | [clauanim](clauanim) | PageXML |
+| [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Vulpanser | [Ex. Theat. I](http://data.onb.ac.at/rep/1056D0FA) | [clauvulp](clauvulp) | PageXML |
+| [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Locustae | [Ex. Theat. I](http://data.onb.ac.at/rep/1056D0FA) | [claulocu](claulocu) | PageXML |
+| [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Passeres | [Ex. Theat. I](http://data.onb.ac.at/rep/1056D0FA) | [claupass](claupass) | PageXML |
+| [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Date et dabitur | [Ex. Theat. I](http://data.onb.ac.at/rep/1056D0FA) | [claudate](claudate) | PageXML |
+| [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Contemptus Studiorum in divite adolescentulo correctus | [Ex. Theat. I](http://data.onb.ac.at/rep/1056D0FA) | [claucont](claucont) | PageXML |
+| [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Sutrina Pigrorum Schola | [Ex. Theat. II](http://data.onb.ac.at/rep/1056D107) | [clausutr](clausutr) | PageXML |
+| [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Gymnasiasta Noctambulo | [Ex. Theat. II](http://data.onb.ac.at/rep/1056D107) | [claugymn](claugymn) | PageXML |
+| [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Nemo | [Ex. Theat. II](http://data.onb.ac.at/rep/1056D107) | [claunemo](claunemo) | PageXML |
+| [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Avaritia Punita | [Ex. Theat. II](http://data.onb.ac.at/rep/1056D107) | [clauavar](clauavar) | PageXML |
+| [Anton Claus](https://www.wikidata.org/wiki/Q98912059#sitelinks-wikipedia) | Poena Neglectae Educationis| [Ex. Theat. II](http://data.onb.ac.at/rep/1056D107) | [claunegl](claunegl) | PageXML |
+
 
 
 ### Editions from manuscripts possibly protected by neighbouring rights
@@ -110,48 +126,48 @@ The following texts are edited from manuscripts which can possbily be considered
 
 | Author | Title | Source | Folder | Status |
 | --- | --- | --- | --- | --- | 
-| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Nascens | ed. Saulini 2011 (?) | | |
-| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Patiens | ed. Saulini 2011 (?) | | |
-| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Iudex | ed. Saulini 2011 (?) | | |
-| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Goliath | ed. Saulini 2017 (?) | | |
-| [Thomas Compton Carleton](http://www.wikidata.org/entity/Q18529060#sitelinks-wikipedia) | Fatum Vortigerni | [ed. Sutton 2007](http://www.philological.bham.ac.uk/vort/), possibly protected by neighbouring rights | | html |
-| Francis Clarke | Homo duplex | [ed. Sutton 2021](http://www.philological.bham.ac.uk/duplex/), possibly protected by neighbouring rights | | html |
-| Karel Kolčava | Purpuratus martyr d. Wenceslaus rex | | |  |
-| Karel Kolčava | Tyrannis triumpans et triumphata, seu Anglia | [ed. Riley 2020](http://www.philological.bham.ac.uk/tyrannis/), possibly protected by neighbouring rights |  | html | 
-| Francis Clarke | Innocentia Purpurata seu Rosa Candida et Rubicunda | [ed. Sutton 2020](http://www.philological.bham.ac.uk/innocentia/), possibly protected by neighbouring rights |  | html | 
-| Edward Cuffaud | Felix Concordia Fratrum sive Ioannes et Paulus | [ed. Sutton 2008](http://www.philological.bham.ac.uk/concordia/), possibly protected by neighbouring rights  |  | html | 
-| Edward Cuffaud | Furor Impius sive Constans Fratricida | [ed. Sutton 2020](http://www.philological.bham.ac.uk/furor/), possibly protected by neighbouring rights  |  | html | 
-| Edward Cuffaud | Gemitus Columbae sive Theophili Lachrymae | [ed. Sutton 2008](http://www.philological.bham.ac.uk/gemitus/), possibly protected by neighbouring rights  |  | html | 
-| Joseph Simons | Leo Armenus | [ed. Sutton 2013](http://www.philological.bham.ac.uk/leo/), possibly protected by neighbouring rights | | html |
-| Joseph Simons | Mercia, sive Pietas Coronata | [ed. Sutton 2013](http://www.philological.bham.ac.uk/mercia/), possibly protected by neighbouring rights | | html |
-| Joseph Simons | Montezuma | [ed. Sutton 2010](http://www.philological.bham.ac.uk/montezuma/), possibly protected by neighbouring rights | | html |
-| Joseph Simons | Sanctus Damianus | [ed. Sutton 2010](http://www.philological.bham.ac.uk/damianus/), possibly protected by neighbouring rights | | html |
-| Joseph Simons | Sanctus Pelagius Martyr | [ed. Sutton 2010](http://www.philological.bham.ac.uk/pelagius/), possibly protected by neighbouring rights | | html |
-| Joseph Simons | Theoctistus | [ed. Sutton 2013](http://www.philological.bham.ac.uk/theo/), possibly protected by neighbouring rights | | html |
-| Joseph Simons | Vitus | [ed. Sutton 2013](http://www.philological.bham.ac.uk/vitus/), possibly protected by neighbouring rights | | html |
-| Joseph Simons | Zeno | [ed. Sutton 2014](http://www.philological.bham.ac.uk/zeno/), possibly protected by neighbouring rights | | html |
-| | Ambitio Infaelix sive Absalon | [ed. Sutton](http://www.philological.bham.ac.uk/absalom), possibly protected by neighbouring rights | | html |
-| | Ananias, Azarias, Mizael | [ed. Sutton](http://www.philological.bham.ac.uk/ananias), possibly protected by neighbouring rights | | html |
-| | Artaxerxes | [ed. Sutton](http://www.philological.bham.ac.uk/artaxerxes/), possibly protected by neighbouring rights | | html |
-| | Basilindus | [ed. Sutton](http://www.philological.bham.ac.uk/basilindus), possibly protected by neighbouring rights | | html |
-| | Captiva Religio | [ed. Sutton](http://www.philological.bham.ac.uk/capt), possibly protected by neighbouring rights | | html |
-| | Crux Vindicata | [ed. Sutton](http://www.philological.bham.ac.uk/crux), possibly protected by neighbouring rights | | html |
-| | Fortunae Ludibrium sive Bellisarius | [ed. Sutton](http://www.philological.bham.ac.uk/fortuna), possibly protected by neighbouring rights | | html |
-| | Magister Bonus sive Arsenius | [ed. Sutton](http://www.philological.bham.ac.uk/arsenius), possibly protected by neighbouring rights | | html |
-| | Minutum | [ed. Sutton](http://www.philological.bham.ac.uk/minutum), possibly protected by neighbouring rights | | html |
-| | Morus | [ed. Sutton](http://www.philological.bham.ac.uk/morus), possibly protected by neighbouring rights | | html |
-| | Psyche et Filii Eius | [ed. Sutton](http://www.philological.bham.ac.uk/psyche), possibly protected by neighbouring rights | | html |
-| | Roffensis | [ed. Sutton](http://www.philological.bham.ac.uk/roff), possibly protected by neighbouring rights | | html |
-| | Thomas Cantuariensis | [ed. Sutton](http://www.philological.bham.ac.uk/thomcant), possibly protected by neighbouring rights | | html |
-| | Thomas Morus | [ed. Sutton](http://www.philological.bham.ac.uk/more), possibly protected by neighbouring rights | | html |
-| | Vulpinus | [ed. Sutton](http://www.philological.bham.ac.uk/vulp), possibly protected by neighbouring rights | | html |
+| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Nascens | ed. Saulini 2011 | | |
+| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Patiens | ed. Saulini 2011 | | |
+| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Christus Iudex | ed. Saulini 2011 | | |
+| [Stefano Tucci](https://www.wikidata.org/wiki/Q59533652) | Goliath | ed. Saulini 2017 | | |
+| [Thomas Compton Carleton](http://www.wikidata.org/entity/Q18529060#sitelinks-wikipedia) | Fatum Vortigerni | [ed. Sutton 2007](http://www.philological.bham.ac.uk/vort/) | | html |
+| Francis Clarke | Homo duplex | [ed. Sutton 2021](http://www.philological.bham.ac.uk/duplex/) | | html |
+| Francis Clarke | Innocentia Purpurata seu Rosa Candida et Rubicunda | [ed. Sutton 2020](http://www.philological.bham.ac.uk/innocentia/) |  | html | 
+| Edward Cuffaud | Felix Concordia Fratrum sive Ioannes et Paulus | [ed. Sutton 2008](http://www.philological.bham.ac.uk/concordia/) |  | html | 
+| Edward Cuffaud | Furor Impius sive Constans Fratricida | [ed. Sutton 2020](http://www.philological.bham.ac.uk/furor/)  |  | html | 
+| Edward Cuffaud | Gemitus Columbae sive Theophili Lachrymae | [ed. Sutton 2008](http://www.philological.bham.ac.uk/gemitus/)  |  | html | 
+| [Joseph Simons](https://www.wikidata.org/wiki/Q3810270#sitelinks-wikipedia) | Leo Armenus | [ed. Sutton 2013](http://www.philological.bham.ac.uk/leo/) | | html |
+| [Joseph Simons](https://www.wikidata.org/wiki/Q3810270#sitelinks-wikipedia) | Montezuma | [ed. Sutton 2010](http://www.philological.bham.ac.uk/montezuma/) | | html |
+| [Joseph Simons](https://www.wikidata.org/wiki/Q3810270#sitelinks-wikipedia) | Sanctus Damianus | [ed. Sutton 2010](http://www.philological.bham.ac.uk/damianus/) | | html |
+| [Joseph Simons](https://www.wikidata.org/wiki/Q3810270#sitelinks-wikipedia) | Sanctus Pelagius Martyr | [ed. Sutton 2010](http://www.philological.bham.ac.uk/pelagius/) | | html |
+| [Joseph Simons](https://www.wikidata.org/wiki/Q3810270#sitelinks-wikipedia) | Theoctistus | [ed. Sutton 2013](http://www.philological.bham.ac.uk/theo/) | | html |
+| [Joseph Simons](https://www.wikidata.org/wiki/Q3810270#sitelinks-wikipedia) | Zeno | [ed. Sutton 2014](http://www.philological.bham.ac.uk/zeno/) | | html |
+| | Ambitio Infaelix sive Absalon | [ed. Sutton](http://www.philological.bham.ac.uk/absalom) | | html |
+| | Ananias, Azarias, Mizael | [ed. Sutton](http://www.philological.bham.ac.uk/ananias) | | html |
+| | Artaxerxes | [ed. Sutton](http://www.philological.bham.ac.uk/artaxerxes/) | | html |
+| | Basilindus | [ed. Sutton](http://www.philological.bham.ac.uk/basilindus) | | html |
+| | Captiva Religio | [ed. Sutton](http://www.philological.bham.ac.uk/capt) | | html |
+| | Crux Vindicata | [ed. Sutton](http://www.philological.bham.ac.uk/crux) | | html |
+| | Fortunae Ludibrium sive Bellisarius | [ed. Sutton](http://www.philological.bham.ac.uk/fortuna) | | html |
+| | Magister Bonus sive Arsenius | [ed. Sutton](http://www.philological.bham.ac.uk/arsenius) | | html |
+| | Minutum | [ed. Sutton](http://www.philological.bham.ac.uk/minutum) | | html |
+| | Morus | [ed. Sutton](http://www.philological.bham.ac.uk/morus) | | html |
+| | Psyche et Filii Eius | [ed. Sutton](http://www.philological.bham.ac.uk/psyche) | | html |
+| | Roffensis | [ed. Sutton](http://www.philological.bham.ac.uk/roff) | | html |
+| | Thomas Cantuariensis | [ed. Sutton](http://www.philological.bham.ac.uk/thomcant) | | html |
+| | Thomas Morus | [ed. Sutton](http://www.philological.bham.ac.uk/more) | | html |
+| | Vulpinus | [ed. Sutton](http://www.philological.bham.ac.uk/vulp) | | html |
+
 
 
 ## To-do's
 
 - Check line segmentation
 - Vet OCR quality
-- Attach proper metadata on sources
+- Link PageXMLs to Image Files (either in repo or on library servers)
+- Attach proper metadata on sources (METS)
+- Provide templates for TEI header
+- Provide TEI versions of PageXMLs
 
 ## Possible further developments 
 
