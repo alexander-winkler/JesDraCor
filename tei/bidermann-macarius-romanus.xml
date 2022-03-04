@@ -49,7 +49,170 @@ comoedia.--></title>
       </fileDesc>
       <profileDesc>
          <particDesc>
-            <listPerson><!--Characters must be added here and linked to the text--></listPerson>
+            <listPerson>
+               <person xml:id="maca" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="geta" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="volu" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="risu" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="atri" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="horn" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="satu" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="liba" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="sani" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="stur" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="coqu" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="sync" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="nutr" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="laud" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="aure" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="joha" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="titu" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="omne" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="scip" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="manl" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="mari" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="coru" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="asca" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="juli" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="chor" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="corn" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="luct" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="gaud" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="virg" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="stuk" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="agyr" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="drom" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="rust" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="raph" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="mate" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="prae" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="caec" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="puer" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="mile" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="vena" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="marc" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="julu" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="mon" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="pira" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="taed" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="desi" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="pigr" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="iner" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="pudo" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="rube" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="jona" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="labr" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="phar" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+               <person xml:id="phan" sex="">
+                  <name><!--Add character label--></name>
+               </person>
+            </listPerson>
          </particDesc>
          <textClass><!--Classification of text with keywords--></textClass>
       </profileDesc>
